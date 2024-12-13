@@ -1,0 +1,880 @@
+"county","cousub20","tract","CountyName","MCDName","hus20","afact"
+"County code","County subdivision (2020)","Tract","County name","County subdivision / MCD name","Total housing units (2020 Census)","cousub20-to-tract allocation factor"
+"09001","04720","2001.00","Fairfield CT","Bethel town, Fairfield CT",1644,0.206 
+"09001","04720","2002.00","Fairfield CT","Bethel town, Fairfield CT",2623,0.3287 
+"09001","04720","2003.01","Fairfield CT","Bethel town, Fairfield CT",1773,0.2222 
+"09001","04720","2003.02","Fairfield CT","Bethel town, Fairfield CT",1940,0.2431 
+"09001","08070","0701.00","Fairfield CT","Bridgeport town, Fairfield CT",2788,0.0474 
+"09001","08070","0702.00","Fairfield CT","Bridgeport town, Fairfield CT",1858,0.0316 
+"09001","08070","0703.00","Fairfield CT","Bridgeport town, Fairfield CT",477,0.0081 
+"09001","08070","0704.00","Fairfield CT","Bridgeport town, Fairfield CT",610,0.0104 
+"09001","08070","0705.00","Fairfield CT","Bridgeport town, Fairfield CT",761,0.0129 
+"09001","08070","0706.00","Fairfield CT","Bridgeport town, Fairfield CT",1748,0.0297 
+"09001","08070","0709.00","Fairfield CT","Bridgeport town, Fairfield CT",1002,0.017 
+"09001","08070","0710.00","Fairfield CT","Bridgeport town, Fairfield CT",1296,0.022 
+"09001","08070","0711.00","Fairfield CT","Bridgeport town, Fairfield CT",1631,0.0277 
+"09001","08070","0712.00","Fairfield CT","Bridgeport town, Fairfield CT",2028,0.0344 
+"09001","08070","0713.00","Fairfield CT","Bridgeport town, Fairfield CT",1501,0.0255 
+"09001","08070","0714.00","Fairfield CT","Bridgeport town, Fairfield CT",1394,0.0237 
+"09001","08070","0716.00","Fairfield CT","Bridgeport town, Fairfield CT",880,0.0149 
+"09001","08070","0719.00","Fairfield CT","Bridgeport town, Fairfield CT",1646,0.028 
+"09001","08070","0720.00","Fairfield CT","Bridgeport town, Fairfield CT",1350,0.0229 
+"09001","08070","0721.00","Fairfield CT","Bridgeport town, Fairfield CT",2739,0.0465 
+"09001","08070","0722.00","Fairfield CT","Bridgeport town, Fairfield CT",1743,0.0296 
+"09001","08070","0723.00","Fairfield CT","Bridgeport town, Fairfield CT",1900,0.0323 
+"09001","08070","0724.00","Fairfield CT","Bridgeport town, Fairfield CT",956,0.0162 
+"09001","08070","0725.00","Fairfield CT","Bridgeport town, Fairfield CT",2357,0.04 
+"09001","08070","0726.00","Fairfield CT","Bridgeport town, Fairfield CT",3090,0.0525 
+"09001","08070","0727.00","Fairfield CT","Bridgeport town, Fairfield CT",1335,0.0227 
+"09001","08070","0728.00","Fairfield CT","Bridgeport town, Fairfield CT",1973,0.0335 
+"09001","08070","0729.00","Fairfield CT","Bridgeport town, Fairfield CT",1588,0.027 
+"09001","08070","0730.00","Fairfield CT","Bridgeport town, Fairfield CT",705,0.012 
+"09001","08070","0731.00","Fairfield CT","Bridgeport town, Fairfield CT",1856,0.0315 
+"09001","08070","0732.00","Fairfield CT","Bridgeport town, Fairfield CT",1974,0.0335 
+"09001","08070","0733.00","Fairfield CT","Bridgeport town, Fairfield CT",1484,0.0252 
+"09001","08070","0734.00","Fairfield CT","Bridgeport town, Fairfield CT",1482,0.0252 
+"09001","08070","0735.00","Fairfield CT","Bridgeport town, Fairfield CT",1343,0.0228 
+"09001","08070","0736.00","Fairfield CT","Bridgeport town, Fairfield CT",888,0.0151 
+"09001","08070","0737.00","Fairfield CT","Bridgeport town, Fairfield CT",2051,0.0348 
+"09001","08070","0738.00","Fairfield CT","Bridgeport town, Fairfield CT",869,0.0148 
+"09001","08070","0739.00","Fairfield CT","Bridgeport town, Fairfield CT",1413,0.024 
+"09001","08070","0740.00","Fairfield CT","Bridgeport town, Fairfield CT",883,0.015 
+"09001","08070","0743.00","Fairfield CT","Bridgeport town, Fairfield CT",1877,0.0319 
+"09001","08070","0744.00","Fairfield CT","Bridgeport town, Fairfield CT",1801,0.0306 
+"09001","08070","2572.00","Fairfield CT","Bridgeport town, Fairfield CT",1597,0.0271 
+"09001","08980","2051.00","Fairfield CT","Brookfield town, Fairfield CT",1923,0.2702 
+"09001","08980","2052.00","Fairfield CT","Brookfield town, Fairfield CT",2548,0.3581 
+"09001","08980","2053.00","Fairfield CT","Brookfield town, Fairfield CT",2645,0.3717 
+"09001","18500","2101.01","Fairfield CT","Danbury town, Fairfield CT",1354,0.0403 
+"09001","18500","2101.02","Fairfield CT","Danbury town, Fairfield CT",1448,0.0431 
+"09001","18500","2102.01","Fairfield CT","Danbury town, Fairfield CT",1260,0.0375 
+"09001","18500","2102.02","Fairfield CT","Danbury town, Fairfield CT",1027,0.0306 
+"09001","18500","2103.00","Fairfield CT","Danbury town, Fairfield CT",2190,0.0653 
+"09001","18500","2104.01","Fairfield CT","Danbury town, Fairfield CT",1801,0.0537 
+"09001","18500","2104.02","Fairfield CT","Danbury town, Fairfield CT",1761,0.0525 
+"09001","18500","2105.01","Fairfield CT","Danbury town, Fairfield CT",1383,0.0412 
+"09001","18500","2105.02","Fairfield CT","Danbury town, Fairfield CT",3239,0.0965 
+"09001","18500","2106.00","Fairfield CT","Danbury town, Fairfield CT",2460,0.0733 
+"09001","18500","2107.01","Fairfield CT","Danbury town, Fairfield CT",1847,0.055 
+"09001","18500","2107.02","Fairfield CT","Danbury town, Fairfield CT",1350,0.0402 
+"09001","18500","2108.00","Fairfield CT","Danbury town, Fairfield CT",2128,0.0634 
+"09001","18500","2109.00","Fairfield CT","Danbury town, Fairfield CT",2209,0.0658 
+"09001","18500","2110.00","Fairfield CT","Danbury town, Fairfield CT",1573,0.0469 
+"09001","18500","2111.00","Fairfield CT","Danbury town, Fairfield CT",47,0.0014 
+"09001","18500","2112.01","Fairfield CT","Danbury town, Fairfield CT",1518,0.0452 
+"09001","18500","2112.02","Fairfield CT","Danbury town, Fairfield CT",1191,0.0355 
+"09001","18500","2113.00","Fairfield CT","Danbury town, Fairfield CT",1459,0.0435 
+"09001","18500","2114.00","Fairfield CT","Danbury town, Fairfield CT",2317,0.069 
+"09001","18850","0301.00","Fairfield CT","Darien town, Fairfield CT",1196,0.1646 
+"09001","18850","0302.00","Fairfield CT","Darien town, Fairfield CT",1159,0.1595 
+"09001","18850","0303.00","Fairfield CT","Darien town, Fairfield CT",1524,0.2098 
+"09001","18850","0304.00","Fairfield CT","Darien town, Fairfield CT",1478,0.2034 
+"09001","18850","0305.00","Fairfield CT","Darien town, Fairfield CT",1908,0.2626 
+"09001","23890","1051.00","Fairfield CT","Easton town, Fairfield CT",1532,0.5559 
+"09001","23890","1052.00","Fairfield CT","Easton town, Fairfield CT",1224,0.4441 
+"09001","26620","0601.00","Fairfield CT","Fairfield town, Fairfield CT",1011,0.046 
+"09001","26620","0602.00","Fairfield CT","Fairfield town, Fairfield CT",1657,0.0754 
+"09001","26620","0603.00","Fairfield CT","Fairfield town, Fairfield CT",1388,0.0631 
+"09001","26620","0604.00","Fairfield CT","Fairfield town, Fairfield CT",1596,0.0726 
+"09001","26620","0605.00","Fairfield CT","Fairfield town, Fairfield CT",1007,0.0458 
+"09001","26620","0606.00","Fairfield CT","Fairfield town, Fairfield CT",1107,0.0504 
+"09001","26620","0607.00","Fairfield CT","Fairfield town, Fairfield CT",1898,0.0863 
+"09001","26620","0608.00","Fairfield CT","Fairfield town, Fairfield CT",793,0.0361 
+"09001","26620","0609.00","Fairfield CT","Fairfield town, Fairfield CT",926,0.0421 
+"09001","26620","0610.00","Fairfield CT","Fairfield town, Fairfield CT",1704,0.0775 
+"09001","26620","0611.00","Fairfield CT","Fairfield town, Fairfield CT",1330,0.0605 
+"09001","26620","0612.00","Fairfield CT","Fairfield town, Fairfield CT",880,0.04 
+"09001","26620","0613.00","Fairfield CT","Fairfield town, Fairfield CT",1230,0.056 
+"09001","26620","0614.00","Fairfield CT","Fairfield town, Fairfield CT",1371,0.0624 
+"09001","26620","0615.00","Fairfield CT","Fairfield town, Fairfield CT",1861,0.0847 
+"09001","26620","0616.00","Fairfield CT","Fairfield town, Fairfield CT",2223,0.1011 
+"09001","33620","0101.01","Fairfield CT","Greenwich town, Fairfield CT",1716,0.0668 
+"09001","33620","0101.02","Fairfield CT","Greenwich town, Fairfield CT",1619,0.0631 
+"09001","33620","0102.01","Fairfield CT","Greenwich town, Fairfield CT",1130,0.044 
+"09001","33620","0102.02","Fairfield CT","Greenwich town, Fairfield CT",2186,0.0851 
+"09001","33620","0103.00","Fairfield CT","Greenwich town, Fairfield CT",1744,0.0679 
+"09001","33620","0104.00","Fairfield CT","Greenwich town, Fairfield CT",2396,0.0933 
+"09001","33620","0105.00","Fairfield CT","Greenwich town, Fairfield CT",2987,0.1163 
+"09001","33620","0106.00","Fairfield CT","Greenwich town, Fairfield CT",1249,0.0486 
+"09001","33620","0107.00","Fairfield CT","Greenwich town, Fairfield CT",1863,0.0726 
+"09001","33620","0108.00","Fairfield CT","Greenwich town, Fairfield CT",1292,0.0503 
+"09001","33620","0109.00","Fairfield CT","Greenwich town, Fairfield CT",1994,0.0777 
+"09001","33620","0110.00","Fairfield CT","Greenwich town, Fairfield CT",1923,0.0749 
+"09001","33620","0111.00","Fairfield CT","Greenwich town, Fairfield CT",1642,0.0639 
+"09001","33620","0112.00","Fairfield CT","Greenwich town, Fairfield CT",786,0.0306 
+"09001","33620","0113.00","Fairfield CT","Greenwich town, Fairfield CT",1150,0.0448 
+"09001","48620","1001.00","Fairfield CT","Monroe town, Fairfield CT",2179,0.315 
+"09001","48620","1002.00","Fairfield CT","Monroe town, Fairfield CT",2455,0.3549 
+"09001","48620","1003.00","Fairfield CT","Monroe town, Fairfield CT",2284,0.3302 
+"09001","50580","0351.01","Fairfield CT","New Canaan town, Fairfield CT",1657,0.2209 
+"09001","50580","0351.02","Fairfield CT","New Canaan town, Fairfield CT",1684,0.2245 
+"09001","50580","0352.00","Fairfield CT","New Canaan town, Fairfield CT",1126,0.1501 
+"09001","50580","0353.00","Fairfield CT","New Canaan town, Fairfield CT",1299,0.1732 
+"09001","50580","0354.00","Fairfield CT","New Canaan town, Fairfield CT",1736,0.2314 
+"09001","50860","2201.00","Fairfield CT","New Fairfield town, Fairfield CT",1837,0.326 
+"09001","50860","2202.00","Fairfield CT","New Fairfield town, Fairfield CT",1795,0.3185 
+"09001","50860","2203.00","Fairfield CT","New Fairfield town, Fairfield CT",2003,0.3555 
+"09001","52980","2301.00","Fairfield CT","Newtown town, Fairfield CT",3022,0.2928 
+"09001","52980","2302.00","Fairfield CT","Newtown town, Fairfield CT",763,0.0739 
+"09001","52980","2303.00","Fairfield CT","Newtown town, Fairfield CT",1291,0.1251 
+"09001","52980","2304.00","Fairfield CT","Newtown town, Fairfield CT",2091,0.2026 
+"09001","52980","2305.01","Fairfield CT","Newtown town, Fairfield CT",1498,0.1451 
+"09001","52980","2305.02","Fairfield CT","Newtown town, Fairfield CT",1657,0.1605 
+"09001","56060","0425.00","Fairfield CT","Norwalk town, Fairfield CT",1493,0.0391 
+"09001","56060","0426.00","Fairfield CT","Norwalk town, Fairfield CT",1874,0.0491 
+"09001","56060","0427.00","Fairfield CT","Norwalk town, Fairfield CT",2766,0.0725 
+"09001","56060","0428.00","Fairfield CT","Norwalk town, Fairfield CT",1789,0.0469 
+"09001","56060","0429.00","Fairfield CT","Norwalk town, Fairfield CT",674,0.0177 
+"09001","56060","0430.00","Fairfield CT","Norwalk town, Fairfield CT",1254,0.0329 
+"09001","56060","0431.00","Fairfield CT","Norwalk town, Fairfield CT",1835,0.0481 
+"09001","56060","0432.00","Fairfield CT","Norwalk town, Fairfield CT",1205,0.0316 
+"09001","56060","0433.00","Fairfield CT","Norwalk town, Fairfield CT",1195,0.0313 
+"09001","56060","0434.00","Fairfield CT","Norwalk town, Fairfield CT",2054,0.0538 
+"09001","56060","0435.00","Fairfield CT","Norwalk town, Fairfield CT",1028,0.0269 
+"09001","56060","0436.00","Fairfield CT","Norwalk town, Fairfield CT",1295,0.0339 
+"09001","56060","0437.00","Fairfield CT","Norwalk town, Fairfield CT",1962,0.0514 
+"09001","56060","0438.00","Fairfield CT","Norwalk town, Fairfield CT",3331,0.0873 
+"09001","56060","0439.00","Fairfield CT","Norwalk town, Fairfield CT",2115,0.0554 
+"09001","56060","0440.00","Fairfield CT","Norwalk town, Fairfield CT",2436,0.0638 
+"09001","56060","0441.00","Fairfield CT","Norwalk town, Fairfield CT",1995,0.0523 
+"09001","56060","0442.00","Fairfield CT","Norwalk town, Fairfield CT",1904,0.0499 
+"09001","56060","0443.00","Fairfield CT","Norwalk town, Fairfield CT",1855,0.0486 
+"09001","56060","0444.00","Fairfield CT","Norwalk town, Fairfield CT",1258,0.033 
+"09001","56060","0445.00","Fairfield CT","Norwalk town, Fairfield CT",1352,0.0354 
+"09001","56060","0446.00","Fairfield CT","Norwalk town, Fairfield CT",1482,0.0388 
+"09001","63480","2401.00","Fairfield CT","Redding town, Fairfield CT",1884,0.5142 
+"09001","63480","2402.00","Fairfield CT","Redding town, Fairfield CT",1780,0.4858 
+"09001","63970","2451.00","Fairfield CT","Ridgefield town, Fairfield CT",1003,0.1055 
+"09001","63970","2452.00","Fairfield CT","Ridgefield town, Fairfield CT",1568,0.1649 
+"09001","63970","2453.00","Fairfield CT","Ridgefield town, Fairfield CT",2462,0.259 
+"09001","63970","2454.00","Fairfield CT","Ridgefield town, Fairfield CT",1204,0.1267 
+"09001","63970","2455.00","Fairfield CT","Ridgefield town, Fairfield CT",1118,0.1176 
+"09001","63970","2456.00","Fairfield CT","Ridgefield town, Fairfield CT",2151,0.2263 
+"09001","68170","1101.00","Fairfield CT","Shelton town, Fairfield CT",1405,0.0818 
+"09001","68170","1102.01","Fairfield CT","Shelton town, Fairfield CT",1982,0.1154 
+"09001","68170","1102.02","Fairfield CT","Shelton town, Fairfield CT",2235,0.1301 
+"09001","68170","1103.01","Fairfield CT","Shelton town, Fairfield CT",3024,0.1761 
+"09001","68170","1103.02","Fairfield CT","Shelton town, Fairfield CT",1556,0.0906 
+"09001","68170","1104.00","Fairfield CT","Shelton town, Fairfield CT",1821,0.106 
+"09001","68170","1105.00","Fairfield CT","Shelton town, Fairfield CT",2036,0.1186 
+"09001","68170","1106.01","Fairfield CT","Shelton town, Fairfield CT",1083,0.0631 
+"09001","68170","1106.02","Fairfield CT","Shelton town, Fairfield CT",2032,0.1183 
+"09001","68310","2571.00","Fairfield CT","Sherman town, Fairfield CT",1834,1 
+"09001","73070","0201.01","Fairfield CT","Stamford town, Fairfield CT",1666,0.0293 
+"09001","73070","0201.02","Fairfield CT","Stamford town, Fairfield CT",2526,0.0444 
+"09001","73070","0202.00","Fairfield CT","Stamford town, Fairfield CT",1429,0.0251 
+"09001","73070","0203.01","Fairfield CT","Stamford town, Fairfield CT",1393,0.0245 
+"09001","73070","0203.02","Fairfield CT","Stamford town, Fairfield CT",1205,0.0212 
+"09001","73070","0204.00","Fairfield CT","Stamford town, Fairfield CT",1336,0.0235 
+"09001","73070","0205.00","Fairfield CT","Stamford town, Fairfield CT",1695,0.0298 
+"09001","73070","0206.00","Fairfield CT","Stamford town, Fairfield CT",1733,0.0304 
+"09001","73070","0207.00","Fairfield CT","Stamford town, Fairfield CT",1644,0.0289 
+"09001","73070","0208.00","Fairfield CT","Stamford town, Fairfield CT",997,0.0175 
+"09001","73070","0209.00","Fairfield CT","Stamford town, Fairfield CT",2291,0.0402 
+"09001","73070","0210.00","Fairfield CT","Stamford town, Fairfield CT",1331,0.0234 
+"09001","73070","0211.00","Fairfield CT","Stamford town, Fairfield CT",2714,0.0477 
+"09001","73070","0212.00","Fairfield CT","Stamford town, Fairfield CT",1807,0.0317 
+"09001","73070","0213.00","Fairfield CT","Stamford town, Fairfield CT",1877,0.033 
+"09001","73070","0214.01","Fairfield CT","Stamford town, Fairfield CT",978,0.0172 
+"09001","73070","0214.02","Fairfield CT","Stamford town, Fairfield CT",1527,0.0268 
+"09001","73070","0215.01","Fairfield CT","Stamford town, Fairfield CT",1320,0.0232 
+"09001","73070","0215.02","Fairfield CT","Stamford town, Fairfield CT",887,0.0156 
+"09001","73070","0216.01","Fairfield CT","Stamford town, Fairfield CT",1868,0.0328 
+"09001","73070","0216.02","Fairfield CT","Stamford town, Fairfield CT",2279,0.04 
+"09001","73070","0217.01","Fairfield CT","Stamford town, Fairfield CT",1638,0.0288 
+"09001","73070","0217.02","Fairfield CT","Stamford town, Fairfield CT",2874,0.0505 
+"09001","73070","0218.01","Fairfield CT","Stamford town, Fairfield CT",1984,0.0348 
+"09001","73070","0218.02","Fairfield CT","Stamford town, Fairfield CT",1957,0.0344 
+"09001","73070","0219.00","Fairfield CT","Stamford town, Fairfield CT",2408,0.0423 
+"09001","73070","0220.00","Fairfield CT","Stamford town, Fairfield CT",1202,0.0211 
+"09001","73070","0221.01","Fairfield CT","Stamford town, Fairfield CT",1031,0.0181 
+"09001","73070","0221.02","Fairfield CT","Stamford town, Fairfield CT",1695,0.0298 
+"09001","73070","0222.01","Fairfield CT","Stamford town, Fairfield CT",1647,0.0289 
+"09001","73070","0222.02","Fairfield CT","Stamford town, Fairfield CT",2574,0.0452 
+"09001","73070","0223.00","Fairfield CT","Stamford town, Fairfield CT",2521,0.0443 
+"09001","73070","0224.00","Fairfield CT","Stamford town, Fairfield CT",919,0.0161 
+"09001","74190","0801.00","Fairfield CT","Stratford town, Fairfield CT",1937,0.0895 
+"09001","74190","0802.00","Fairfield CT","Stratford town, Fairfield CT",1657,0.0766 
+"09001","74190","0804.00","Fairfield CT","Stratford town, Fairfield CT",2309,0.1067 
+"09001","74190","0805.00","Fairfield CT","Stratford town, Fairfield CT",1564,0.0723 
+"09001","74190","0806.00","Fairfield CT","Stratford town, Fairfield CT",1239,0.0572 
+"09001","74190","0807.00","Fairfield CT","Stratford town, Fairfield CT",996,0.046 
+"09001","74190","0808.00","Fairfield CT","Stratford town, Fairfield CT",1894,0.0875 
+"09001","74190","0809.00","Fairfield CT","Stratford town, Fairfield CT",1930,0.0892 
+"09001","74190","0810.00","Fairfield CT","Stratford town, Fairfield CT",1788,0.0826 
+"09001","74190","0811.00","Fairfield CT","Stratford town, Fairfield CT",1813,0.0838 
+"09001","74190","0812.00","Fairfield CT","Stratford town, Fairfield CT",1989,0.0919 
+"09001","74190","0813.00","Fairfield CT","Stratford town, Fairfield CT",2527,0.1168 
+"09001","77200","0901.00","Fairfield CT","Trumbull town, Fairfield CT",1243,0.0945 
+"09001","77200","0902.00","Fairfield CT","Trumbull town, Fairfield CT",2951,0.2243 
+"09001","77200","0903.00","Fairfield CT","Trumbull town, Fairfield CT",1677,0.1274 
+"09001","77200","0904.00","Fairfield CT","Trumbull town, Fairfield CT",2457,0.1867 
+"09001","77200","0905.00","Fairfield CT","Trumbull town, Fairfield CT",1710,0.1299 
+"09001","77200","0906.00","Fairfield CT","Trumbull town, Fairfield CT",1343,0.1021 
+"09001","77200","0907.00","Fairfield CT","Trumbull town, Fairfield CT",1778,0.1351 
+"09001","83430","0551.00","Fairfield CT","Weston town, Fairfield CT",2061,0.5614 
+"09001","83430","0552.00","Fairfield CT","Weston town, Fairfield CT",1610,0.4386 
+"09001","83500","0501.00","Fairfield CT","Westport town, Fairfield CT",1487,0.1407 
+"09001","83500","0502.00","Fairfield CT","Westport town, Fairfield CT",1661,0.1572 
+"09001","83500","0503.01","Fairfield CT","Westport town, Fairfield CT",1532,0.145 
+"09001","83500","0503.02","Fairfield CT","Westport town, Fairfield CT",1527,0.1445 
+"09001","83500","0504.00","Fairfield CT","Westport town, Fairfield CT",1120,0.106 
+"09001","83500","0505.00","Fairfield CT","Westport town, Fairfield CT",1880,0.1779 
+"09001","83500","0506.00","Fairfield CT","Westport town, Fairfield CT",1360,0.1287 
+"09001","86370","0451.01","Fairfield CT","Wilton town, Fairfield CT",1384,0.2108 
+"09001","86370","0451.02","Fairfield CT","Wilton town, Fairfield CT",2056,0.3131 
+"09001","86370","0452.00","Fairfield CT","Wilton town, Fairfield CT",1075,0.1637 
+"09001","86370","0453.00","Fairfield CT","Wilton town, Fairfield CT",809,0.1232 
+"09001","86370","0454.00","Fairfield CT","Wilton town, Fairfield CT",1243,0.1893 
+"09003","02060","4621.01","Hartford CT","Avon town, Hartford CT",2607,0.338 
+"09003","02060","4621.02","Hartford CT","Avon town, Hartford CT",1483,0.1923 
+"09003","02060","4622.01","Hartford CT","Avon town, Hartford CT",2332,0.3023 
+"09003","02060","4622.02","Hartford CT","Avon town, Hartford CT",1291,0.1674 
+"09003","04300","4001.01","Hartford CT","Berlin town, Hartford CT",1436,0.1675 
+"09003","04300","4001.02","Hartford CT","Berlin town, Hartford CT",1848,0.2156 
+"09003","04300","4002.00","Hartford CT","Berlin town, Hartford CT",2351,0.2743 
+"09003","04300","4003.00","Hartford CT","Berlin town, Hartford CT",2936,0.3426 
+"09003","05910","4711.00","Hartford CT","Bloomfield town, Hartford CT",1362,0.1402 
+"09003","05910","4712.00","Hartford CT","Bloomfield town, Hartford CT",1200,0.1235 
+"09003","05910","4713.00","Hartford CT","Bloomfield town, Hartford CT",2499,0.2572 
+"09003","05910","4714.00","Hartford CT","Bloomfield town, Hartford CT",2785,0.2866 
+"09003","05910","4715.00","Hartford CT","Bloomfield town, Hartford CT",1871,0.1925 
+"09003","08490","4051.00","Hartford CT","Bristol town, Hartford CT",1376,0.0505 
+"09003","08490","4052.00","Hartford CT","Bristol town, Hartford CT",1964,0.0721 
+"09003","08490","4053.00","Hartford CT","Bristol town, Hartford CT",2800,0.1027 
+"09003","08490","4054.01","Hartford CT","Bristol town, Hartford CT",1449,0.0532 
+"09003","08490","4054.02","Hartford CT","Bristol town, Hartford CT",2231,0.0819 
+"09003","08490","4055.00","Hartford CT","Bristol town, Hartford CT",2327,0.0854 
+"09003","08490","4056.00","Hartford CT","Bristol town, Hartford CT",3113,0.1142 
+"09003","08490","4057.00","Hartford CT","Bristol town, Hartford CT",1109,0.0407 
+"09003","08490","4058.01","Hartford CT","Bristol town, Hartford CT",1466,0.0538 
+"09003","08490","4058.02","Hartford CT","Bristol town, Hartford CT",1727,0.0634 
+"09003","08490","4059.00","Hartford CT","Bristol town, Hartford CT",1840,0.0675 
+"09003","08490","4060.01","Hartford CT","Bristol town, Hartford CT",1778,0.0652 
+"09003","08490","4060.02","Hartford CT","Bristol town, Hartford CT",2163,0.0794 
+"09003","08490","4061.00","Hartford CT","Bristol town, Hartford CT",1908,0.07 
+"09003","10100","4101.01","Hartford CT","Burlington town, Hartford CT",2008,0.5535 
+"09003","10100","4101.02","Hartford CT","Burlington town, Hartford CT",1620,0.4465 
+"09003","12270","4641.01","Hartford CT","Canton town, Hartford CT",2061,0.4702 
+"09003","12270","4641.02","Hartford CT","Canton town, Hartford CT",2322,0.5298 
+"09003","22070","4701.00","Hartford CT","East Granby town, Hartford CT",2183,1 
+"09003","22630","5101.00","Hartford CT","East Hartford town, Hartford CT",917,0.0429 
+"09003","22630","5102.00","Hartford CT","East Hartford town, Hartford CT",1037,0.0485 
+"09003","22630","5103.00","Hartford CT","East Hartford town, Hartford CT",1663,0.0779 
+"09003","22630","5104.00","Hartford CT","East Hartford town, Hartford CT",2460,0.1152 
+"09003","22630","5105.00","Hartford CT","East Hartford town, Hartford CT",1482,0.0694 
+"09003","22630","5106.00","Hartford CT","East Hartford town, Hartford CT",2299,0.1076 
+"09003","22630","5107.00","Hartford CT","East Hartford town, Hartford CT",2050,0.096 
+"09003","22630","5108.00","Hartford CT","East Hartford town, Hartford CT",1508,0.0706 
+"09003","22630","5109.00","Hartford CT","East Hartford town, Hartford CT",1469,0.0688 
+"09003","22630","5110.00","Hartford CT","East Hartford town, Hartford CT",1403,0.0657 
+"09003","22630","5111.00","Hartford CT","East Hartford town, Hartford CT",1416,0.0663 
+"09003","22630","5112.00","Hartford CT","East Hartford town, Hartford CT",1310,0.0613 
+"09003","22630","5113.00","Hartford CT","East Hartford town, Hartford CT",1468,0.0687 
+"09003","22630","5114.00","Hartford CT","East Hartford town, Hartford CT",879,0.0411 
+"09003","24800","4841.00","Hartford CT","East Windsor town, Hartford CT",2814,0.5262 
+"09003","24800","4842.00","Hartford CT","East Windsor town, Hartford CT",2534,0.4738 
+"09003","25990","4803.00","Hartford CT","Enfield town, Hartford CT",953,0.0537 
+"09003","25990","4804.00","Hartford CT","Enfield town, Hartford CT",1465,0.0826 
+"09003","25990","4805.00","Hartford CT","Enfield town, Hartford CT",1387,0.0782 
+"09003","25990","4806.00","Hartford CT","Enfield town, Hartford CT",2297,0.1295 
+"09003","25990","4807.00","Hartford CT","Enfield town, Hartford CT",861,0.0485 
+"09003","25990","4808.00","Hartford CT","Enfield town, Hartford CT",2041,0.115 
+"09003","25990","4809.00","Hartford CT","Enfield town, Hartford CT",916,0.0516 
+"09003","25990","4810.00","Hartford CT","Enfield town, Hartford CT",1314,0.0741 
+"09003","25990","4811.00","Hartford CT","Enfield town, Hartford CT",1549,0.0873 
+"09003","25990","4812.00","Hartford CT","Enfield town, Hartford CT",1764,0.0994 
+"09003","25990","4813.00","Hartford CT","Enfield town, Hartford CT",1196,0.0674 
+"09003","25990","5243.00","Hartford CT","Enfield town, Hartford CT",1998,0.1126 
+"09003","27600","4601.00","Hartford CT","Farmington town, Hartford CT",1458,0.125 
+"09003","27600","4602.02","Hartford CT","Farmington town, Hartford CT",2195,0.1881 
+"09003","27600","4602.03","Hartford CT","Farmington town, Hartford CT",1578,0.1353 
+"09003","27600","4602.04","Hartford CT","Farmington town, Hartford CT",2675,0.2293 
+"09003","27600","4603.01","Hartford CT","Farmington town, Hartford CT",2067,0.1772 
+"09003","27600","4603.02","Hartford CT","Farmington town, Hartford CT",1694,0.1452 
+"09003","31240","5201.00","Hartford CT","Glastonbury town, Hartford CT",2192,0.1514 
+"09003","31240","5202.01","Hartford CT","Glastonbury town, Hartford CT",1341,0.0926 
+"09003","31240","5202.02","Hartford CT","Glastonbury town, Hartford CT",1556,0.1075 
+"09003","31240","5203.01","Hartford CT","Glastonbury town, Hartford CT",2068,0.1428 
+"09003","31240","5203.02","Hartford CT","Glastonbury town, Hartford CT",2527,0.1745 
+"09003","31240","5204.00","Hartford CT","Glastonbury town, Hartford CT",3106,0.2145 
+"09003","31240","5205.01","Hartford CT","Glastonbury town, Hartford CT",1691,0.1168 
+"09003","32640","4681.01","Hartford CT","Granby town, Hartford CT",2667,0.5996 
+"09003","32640","4681.02","Hartford CT","Granby town, Hartford CT",1781,0.4004 
+"09003","37070","5001.00","Hartford CT","Hartford town, Hartford CT",1540,0.0289 
+"09003","37070","5002.00","Hartford CT","Hartford town, Hartford CT",952,0.0179 
+"09003","37070","5003.00","Hartford CT","Hartford town, Hartford CT",1047,0.0197 
+"09003","37070","5004.00","Hartford CT","Hartford town, Hartford CT",849,0.0159 
+"09003","37070","5005.00","Hartford CT","Hartford town, Hartford CT",897,0.0168 
+"09003","37070","5009.00","Hartford CT","Hartford town, Hartford CT",831,0.0156 
+"09003","37070","5012.00","Hartford CT","Hartford town, Hartford CT",1027,0.0193 
+"09003","37070","5013.00","Hartford CT","Hartford town, Hartford CT",676,0.0127 
+"09003","37070","5014.00","Hartford CT","Hartford town, Hartford CT",1257,0.0236 
+"09003","37070","5015.00","Hartford CT","Hartford town, Hartford CT",1577,0.0296 
+"09003","37070","5017.00","Hartford CT","Hartford town, Hartford CT",574,0.0108 
+"09003","37070","5018.00","Hartford CT","Hartford town, Hartford CT",1170,0.022 
+"09003","37070","5021.00","Hartford CT","Hartford town, Hartford CT",2291,0.043 
+"09003","37070","5023.00","Hartford CT","Hartford town, Hartford CT",2162,0.0406 
+"09003","37070","5024.00","Hartford CT","Hartford town, Hartford CT",2342,0.044 
+"09003","37070","5025.00","Hartford CT","Hartford town, Hartford CT",837,0.0157 
+"09003","37070","5026.00","Hartford CT","Hartford town, Hartford CT",1476,0.0277 
+"09003","37070","5027.00","Hartford CT","Hartford town, Hartford CT",1637,0.0307 
+"09003","37070","5028.00","Hartford CT","Hartford town, Hartford CT",1200,0.0225 
+"09003","37070","5029.00","Hartford CT","Hartford town, Hartford CT",1418,0.0266 
+"09003","37070","5030.00","Hartford CT","Hartford town, Hartford CT",1400,0.0263 
+"09003","37070","5031.01","Hartford CT","Hartford town, Hartford CT",926,0.0174 
+"09003","37070","5031.02","Hartford CT","Hartford town, Hartford CT",2021,0.0379 
+"09003","37070","5033.00","Hartford CT","Hartford town, Hartford CT",1532,0.0288 
+"09003","37070","5035.00","Hartford CT","Hartford town, Hartford CT",700,0.0131 
+"09003","37070","5037.00","Hartford CT","Hartford town, Hartford CT",1087,0.0204 
+"09003","37070","5038.00","Hartford CT","Hartford town, Hartford CT",60,0.0011 
+"09003","37070","5039.00","Hartford CT","Hartford town, Hartford CT",1853,0.0348 
+"09003","37070","5040.00","Hartford CT","Hartford town, Hartford CT",1242,0.0233 
+"09003","37070","5041.00","Hartford CT","Hartford town, Hartford CT",772,0.0145 
+"09003","37070","5042.00","Hartford CT","Hartford town, Hartford CT",2788,0.0523 
+"09003","37070","5043.00","Hartford CT","Hartford town, Hartford CT",884,0.0166 
+"09003","37070","5045.00","Hartford CT","Hartford town, Hartford CT",1378,0.0259 
+"09003","37070","5048.00","Hartford CT","Hartford town, Hartford CT",1721,0.0323 
+"09003","37070","5049.00","Hartford CT","Hartford town, Hartford CT",1705,0.032 
+"09003","37070","5244.00","Hartford CT","Hartford town, Hartford CT",1406,0.0264 
+"09003","37070","5245.01","Hartford CT","Hartford town, Hartford CT",1732,0.0325 
+"09003","37070","5245.02","Hartford CT","Hartford town, Hartford CT",1171,0.022 
+"09003","37070","5246.00","Hartford CT","Hartford town, Hartford CT",1805,0.0339 
+"09003","37070","5247.00","Hartford CT","Hartford town, Hartford CT",1310,0.0246 
+"09003","37070","9801.00","Hartford CT","Hartford town, Hartford CT",6,0.0001 
+"09003","37140","3301.00","Hartford CT","Hartland town, Hartford CT",843,1 
+"09003","44700","5141.01","Hartford CT","Manchester town, Hartford CT",1311,0.0496 
+"09003","44700","5141.03","Hartford CT","Manchester town, Hartford CT",2058,0.0778 
+"09003","44700","5141.04","Hartford CT","Manchester town, Hartford CT",2001,0.0757 
+"09003","44700","5142.00","Hartford CT","Manchester town, Hartford CT",1554,0.0588 
+"09003","44700","5143.00","Hartford CT","Manchester town, Hartford CT",1826,0.069 
+"09003","44700","5144.00","Hartford CT","Manchester town, Hartford CT",2076,0.0785 
+"09003","44700","5145.00","Hartford CT","Manchester town, Hartford CT",1893,0.0716 
+"09003","44700","5146.00","Hartford CT","Manchester town, Hartford CT",2547,0.0963 
+"09003","44700","5147.00","Hartford CT","Manchester town, Hartford CT",2289,0.0866 
+"09003","44700","5148.00","Hartford CT","Manchester town, Hartford CT",1441,0.0545 
+"09003","44700","5149.00","Hartford CT","Manchester town, Hartford CT",1235,0.0467 
+"09003","44700","5150.00","Hartford CT","Manchester town, Hartford CT",1240,0.0469 
+"09003","44700","5151.01","Hartford CT","Manchester town, Hartford CT",1002,0.0379 
+"09003","44700","5151.02","Hartford CT","Manchester town, Hartford CT",2475,0.0936 
+"09003","44700","5152.00","Hartford CT","Manchester town, Hartford CT",1497,0.0566 
+"09003","45820","5241.00","Hartford CT","Marlborough town, Hartford CT",2388,1 
+"09003","50440","4153.00","Hartford CT","New Britain town, Hartford CT",1039,0.033 
+"09003","50440","4154.00","Hartford CT","New Britain town, Hartford CT",2505,0.0795 
+"09003","50440","4155.00","Hartford CT","New Britain town, Hartford CT",1280,0.0406 
+"09003","50440","4156.00","Hartford CT","New Britain town, Hartford CT",1864,0.0592 
+"09003","50440","4157.00","Hartford CT","New Britain town, Hartford CT",1448,0.046 
+"09003","50440","4158.00","Hartford CT","New Britain town, Hartford CT",1310,0.0416 
+"09003","50440","4159.00","Hartford CT","New Britain town, Hartford CT",793,0.0252 
+"09003","50440","4160.00","Hartford CT","New Britain town, Hartford CT",2089,0.0663 
+"09003","50440","4161.00","Hartford CT","New Britain town, Hartford CT",2083,0.0661 
+"09003","50440","4162.00","Hartford CT","New Britain town, Hartford CT",1394,0.0442 
+"09003","50440","4163.00","Hartford CT","New Britain town, Hartford CT",1702,0.054 
+"09003","50440","4164.00","Hartford CT","New Britain town, Hartford CT",1368,0.0434 
+"09003","50440","4165.00","Hartford CT","New Britain town, Hartford CT",1857,0.0589 
+"09003","50440","4166.00","Hartford CT","New Britain town, Hartford CT",1311,0.0416 
+"09003","50440","4167.00","Hartford CT","New Britain town, Hartford CT",2761,0.0876 
+"09003","50440","4168.00","Hartford CT","New Britain town, Hartford CT",1347,0.0427 
+"09003","50440","4171.00","Hartford CT","New Britain town, Hartford CT",1033,0.0328 
+"09003","50440","4172.00","Hartford CT","New Britain town, Hartford CT",814,0.0258 
+"09003","50440","4173.00","Hartford CT","New Britain town, Hartford CT",35,0.0011 
+"09003","50440","4174.00","Hartford CT","New Britain town, Hartford CT",1532,0.0486 
+"09003","50440","4175.00","Hartford CT","New Britain town, Hartford CT",1945,0.0617 
+"09003","52140","4941.00","Hartford CT","Newington town, Hartford CT",2880,0.2179 
+"09003","52140","4942.01","Hartford CT","Newington town, Hartford CT",1871,0.1415 
+"09003","52140","4942.02","Hartford CT","Newington town, Hartford CT",1200,0.0908 
+"09003","52140","4943.00","Hartford CT","Newington town, Hartford CT",1631,0.1234 
+"09003","52140","4944.00","Hartford CT","Newington town, Hartford CT",2055,0.1555 
+"09003","52140","4945.00","Hartford CT","Newington town, Hartford CT",1909,0.1444 
+"09003","52140","4946.00","Hartford CT","Newington town, Hartford CT",1673,0.1266 
+"09003","60120","4204.00","Hartford CT","Plainville town, Hartford CT",1229,0.1528 
+"09003","60120","4205.00","Hartford CT","Plainville town, Hartford CT",2620,0.3257 
+"09003","60120","4206.01","Hartford CT","Plainville town, Hartford CT",1289,0.1602 
+"09003","60120","4206.02","Hartford CT","Plainville town, Hartford CT",1495,0.1858 
+"09003","60120","4207.00","Hartford CT","Plainville town, Hartford CT",1412,0.1755 
+"09003","65370","4901.00","Hartford CT","Rocky Hill town, Hartford CT",2807,0.3012 
+"09003","65370","4903.03","Hartford CT","Rocky Hill town, Hartford CT",2121,0.2276 
+"09003","65370","4903.04","Hartford CT","Rocky Hill town, Hartford CT",1611,0.1729 
+"09003","65370","5242.00","Hartford CT","Rocky Hill town, Hartford CT",2780,0.2983 
+"09003","68940","4661.01","Hartford CT","Simsbury town, Hartford CT",2516,0.2502 
+"09003","68940","4661.02","Hartford CT","Simsbury town, Hartford CT",2136,0.2124 
+"09003","68940","4662.01","Hartford CT","Simsbury town, Hartford CT",1175,0.1168 
+"09003","68940","4662.02","Hartford CT","Simsbury town, Hartford CT",1341,0.1333 
+"09003","68940","4663.00","Hartford CT","Simsbury town, Hartford CT",1820,0.181 
+"09003","68940","4664.00","Hartford CT","Simsbury town, Hartford CT",1069,0.1063 
+"09003","70550","4301.00","Hartford CT","Southington town, Hartford CT",1916,0.1056 
+"09003","70550","4302.01","Hartford CT","Southington town, Hartford CT",1439,0.0793 
+"09003","70550","4302.02","Hartford CT","Southington town, Hartford CT",1728,0.0952 
+"09003","70550","4302.03","Hartford CT","Southington town, Hartford CT",1929,0.1063 
+"09003","70550","4303.01","Hartford CT","Southington town, Hartford CT",1437,0.0792 
+"09003","70550","4303.02","Hartford CT","Southington town, Hartford CT",1123,0.0619 
+"09003","70550","4304.00","Hartford CT","Southington town, Hartford CT",2240,0.1234 
+"09003","70550","4305.01","Hartford CT","Southington town, Hartford CT",675,0.0372 
+"09003","70550","4305.02","Hartford CT","Southington town, Hartford CT",1862,0.1026 
+"09003","70550","4306.02","Hartford CT","Southington town, Hartford CT",1425,0.0785 
+"09003","70550","4306.03","Hartford CT","Southington town, Hartford CT",1065,0.0587 
+"09003","70550","4306.04","Hartford CT","Southington town, Hartford CT",1306,0.072 
+"09003","71390","4871.00","Hartford CT","South Windsor town, Hartford CT",2617,0.2422 
+"09003","71390","4872.01","Hartford CT","South Windsor town, Hartford CT",1789,0.1656 
+"09003","71390","4872.02","Hartford CT","South Windsor town, Hartford CT",1162,0.1076 
+"09003","71390","4873.00","Hartford CT","South Windsor town, Hartford CT",640,0.0592 
+"09003","71390","4874.00","Hartford CT","South Windsor town, Hartford CT",1081,0.1001 
+"09003","71390","4875.00","Hartford CT","South Windsor town, Hartford CT",3515,0.3253 
+"09003","74540","4771.01","Hartford CT","Suffield town, Hartford CT",1707,0.2904 
+"09003","74540","4771.03","Hartford CT","Suffield town, Hartford CT",1672,0.2844 
+"09003","74540","4771.04","Hartford CT","Suffield town, Hartford CT",1258,0.214 
+"09003","74540","4772.00","Hartford CT","Suffield town, Hartford CT",1242,0.2113 
+"09003","82590","4961.00","Hartford CT","West Hartford town, Hartford CT",1184,0.0435 
+"09003","82590","4962.00","Hartford CT","West Hartford town, Hartford CT",2047,0.0751 
+"09003","82590","4963.00","Hartford CT","West Hartford town, Hartford CT",1594,0.0585 
+"09003","82590","4964.00","Hartford CT","West Hartford town, Hartford CT",1171,0.043 
+"09003","82590","4965.00","Hartford CT","West Hartford town, Hartford CT",1114,0.0409 
+"09003","82590","4966.00","Hartford CT","West Hartford town, Hartford CT",1204,0.0442 
+"09003","82590","4967.00","Hartford CT","West Hartford town, Hartford CT",1767,0.0649 
+"09003","82590","4968.00","Hartford CT","West Hartford town, Hartford CT",1428,0.0524 
+"09003","82590","4969.00","Hartford CT","West Hartford town, Hartford CT",3211,0.1179 
+"09003","82590","4970.00","Hartford CT","West Hartford town, Hartford CT",1597,0.0586 
+"09003","82590","4971.00","Hartford CT","West Hartford town, Hartford CT",2143,0.0787 
+"09003","82590","4972.00","Hartford CT","West Hartford town, Hartford CT",973,0.0357 
+"09003","82590","4973.00","Hartford CT","West Hartford town, Hartford CT",1812,0.0665 
+"09003","82590","4974.00","Hartford CT","West Hartford town, Hartford CT",1519,0.0558 
+"09003","82590","4975.00","Hartford CT","West Hartford town, Hartford CT",1777,0.0652 
+"09003","82590","4976.00","Hartford CT","West Hartford town, Hartford CT",1018,0.0374 
+"09003","82590","4977.00","Hartford CT","West Hartford town, Hartford CT",1681,0.0617 
+"09003","84900","4921.00","Hartford CT","Wethersfield town, Hartford CT",1497,0.1268 
+"09003","84900","4922.00","Hartford CT","Wethersfield town, Hartford CT",1798,0.1523 
+"09003","84900","4923.00","Hartford CT","Wethersfield town, Hartford CT",2838,0.2403 
+"09003","84900","4924.00","Hartford CT","Wethersfield town, Hartford CT",1211,0.1025 
+"09003","84900","4925.00","Hartford CT","Wethersfield town, Hartford CT",1446,0.1224 
+"09003","84900","4926.00","Hartford CT","Wethersfield town, Hartford CT",3019,0.2557 
+"09003","87000","4731.00","Hartford CT","Windsor town, Hartford CT",2289,0.1901 
+"09003","87000","4734.00","Hartford CT","Windsor town, Hartford CT",1084,0.09 
+"09003","87000","4735.01","Hartford CT","Windsor town, Hartford CT",1849,0.1536 
+"09003","87000","4735.02","Hartford CT","Windsor town, Hartford CT",1457,0.121 
+"09003","87000","4736.01","Hartford CT","Windsor town, Hartford CT",1364,0.1133 
+"09003","87000","4736.02","Hartford CT","Windsor town, Hartford CT",1031,0.0856 
+"09003","87000","4737.00","Hartford CT","Windsor town, Hartford CT",2242,0.1862 
+"09003","87000","4738.00","Hartford CT","Windsor town, Hartford CT",722,0.06 
+"09003","87070","4761.00","Hartford CT","Windsor Locks town, Hartford CT",2245,0.3861 
+"09003","87070","4762.00","Hartford CT","Windsor Locks town, Hartford CT",1153,0.1983 
+"09003","87070","4763.00","Hartford CT","Windsor Locks town, Hartford CT",2417,0.4156 
+"09005","02760","2901.00","Litchfield CT","Barkhamsted town, Litchfield CT",1566,1 
+"09005","04930","3421.00","Litchfield CT","Bethlehem town, Litchfield CT",1605,1 
+"09005","08210","2501.00","Litchfield CT","Bridgewater town, Litchfield CT",863,1 
+"09005","10940","4256.02","Litchfield CT","Canaan town, Litchfield CT",639,1 
+"09005","16050","2931.00","Litchfield CT","Colebrook town, Litchfield CT",694,1 
+"09005","17240","2632.00","Litchfield CT","Cornwall town, Litchfield CT",1002,1 
+"09005","32290","2961.00","Litchfield CT","Goshen town, Litchfield CT",1708,1 
+"09005","37280","2983.00","Litchfield CT","Harwinton town, Litchfield CT",1203,0.5201 
+"09005","37280","2984.00","Litchfield CT","Harwinton town, Litchfield CT",1110,0.4799 
+"09005","40290","2661.00","Litchfield CT","Kent town, Litchfield CT",1687,1 
+"09005","43370","3001.00","Litchfield CT","Litchfield town, Litchfield CT",1405,0.3543 
+"09005","43370","3004.00","Litchfield CT","Litchfield town, Litchfield CT",931,0.2347 
+"09005","43370","3005.00","Litchfield CT","Litchfield town, Litchfield CT",1630,0.411 
+"09005","49460","3031.00","Litchfield CT","Morris town, Litchfield CT",1253,1 
+"09005","51350","3061.00","Litchfield CT","New Hartford town, Litchfield CT",2968,1 
+"09005","52630","2531.00","Litchfield CT","New Milford town, Litchfield CT",1566,0.1313 
+"09005","52630","2532.00","Litchfield CT","New Milford town, Litchfield CT",2781,0.2331 
+"09005","52630","2534.00","Litchfield CT","New Milford town, Litchfield CT",2821,0.2365 
+"09005","52630","2535.00","Litchfield CT","New Milford town, Litchfield CT",2465,0.2067 
+"09005","52630","4257.00","Litchfield CT","New Milford town, Litchfield CT",2295,0.1924 
+"09005","53470","4256.01","Litchfield CT","Norfolk town, Litchfield CT",932,1 
+"09005","54030","2602.00","Litchfield CT","North Canaan town, Litchfield CT",1582,1 
+"09005","60750","4253.00","Litchfield CT","Plymouth town, Litchfield CT",1695,0.3291 
+"09005","60750","4254.00","Litchfield CT","Plymouth town, Litchfield CT",1935,0.3757 
+"09005","60750","4255.00","Litchfield CT","Plymouth town, Litchfield CT",1521,0.2953 
+"09005","65930","2681.00","Litchfield CT","Roxbury town, Litchfield CT",1163,1 
+"09005","66420","2611.00","Litchfield CT","Salisbury town, Litchfield CT",2519,1 
+"09005","67960","2621.00","Litchfield CT","Sharon town, Litchfield CT",1724,1 
+"09005","75730","3491.00","Litchfield CT","Thomaston town, Litchfield CT",2083,0.6237 
+"09005","75730","3492.00","Litchfield CT","Thomaston town, Litchfield CT",1257,0.3763 
+"09005","76570","3101.00","Litchfield CT","Torrington town, Litchfield CT",1962,0.1151 
+"09005","76570","3102.00","Litchfield CT","Torrington town, Litchfield CT",1399,0.0821 
+"09005","76570","3103.00","Litchfield CT","Torrington town, Litchfield CT",988,0.058 
+"09005","76570","3104.00","Litchfield CT","Torrington town, Litchfield CT",1220,0.0716 
+"09005","76570","3105.00","Litchfield CT","Torrington town, Litchfield CT",919,0.0539 
+"09005","76570","3106.01","Litchfield CT","Torrington town, Litchfield CT",1404,0.0824 
+"09005","76570","3106.02","Litchfield CT","Torrington town, Litchfield CT",1962,0.1151 
+"09005","76570","3107.00","Litchfield CT","Torrington town, Litchfield CT",2488,0.146 
+"09005","76570","3108.01","Litchfield CT","Torrington town, Litchfield CT",1177,0.0691 
+"09005","76570","3108.03","Litchfield CT","Torrington town, Litchfield CT",2353,0.1381 
+"09005","76570","3108.04","Litchfield CT","Torrington town, Litchfield CT",1168,0.0685 
+"09005","79510","2651.00","Litchfield CT","Warren town, Litchfield CT",790,1 
+"09005","79720","2671.00","Litchfield CT","Washington town, Litchfield CT",2056,1 
+"09005","80490","3601.00","Litchfield CT","Watertown town, Litchfield CT",2250,0.2463 
+"09005","80490","3602.00","Litchfield CT","Watertown town, Litchfield CT",2984,0.3266 
+"09005","80490","3603.00","Litchfield CT","Watertown town, Litchfield CT",1448,0.1585 
+"09005","80490","3604.00","Litchfield CT","Watertown town, Litchfield CT",2455,0.2687 
+"09005","86440","3201.01","Litchfield CT","Winchester town, Litchfield CT",786,0.1454 
+"09005","86440","3201.02","Litchfield CT","Winchester town, Litchfield CT",2254,0.417 
+"09005","86440","3202.00","Litchfield CT","Winchester town, Litchfield CT",2365,0.4376 
+"09005","87910","3621.01","Litchfield CT","Woodbury town, Litchfield CT",2137,0.4662 
+"09005","87910","3621.02","Litchfield CT","Woodbury town, Litchfield CT",2447,0.5338 
+"09007","14300","6001.00","Middlesex CT","Chester town, Middlesex CT",1793,1 
+"09007","15350","6101.00","Middlesex CT","Clinton town, Middlesex CT",1151,0.1832 
+"09007","15350","6102.00","Middlesex CT","Clinton town, Middlesex CT",2181,0.3471 
+"09007","15350","6103.00","Middlesex CT","Clinton town, Middlesex CT",1693,0.2695 
+"09007","15350","6104.00","Middlesex CT","Clinton town, Middlesex CT",1258,0.2002 
+"09007","18080","5701.00","Middlesex CT","Cromwell town, Middlesex CT",2248,0.3648 
+"09007","18080","5702.00","Middlesex CT","Cromwell town, Middlesex CT",1356,0.2201 
+"09007","18080","5703.00","Middlesex CT","Cromwell town, Middlesex CT",2558,0.4151 
+"09007","19130","6201.00","Middlesex CT","Deep River town, Middlesex CT",2112,1 
+"09007","20810","5851.00","Middlesex CT","Durham town, Middlesex CT",2828,1 
+"09007","22280","5951.01","Middlesex CT","East Haddam town, Middlesex CT",1872,0.4181 
+"09007","22280","5951.02","Middlesex CT","East Haddam town, Middlesex CT",2605,0.5819 
+"09007","22490","5501.00","Middlesex CT","East Hampton town, Middlesex CT",2685,0.4763 
+"09007","22490","5502.01","Middlesex CT","East Hampton town, Middlesex CT",1605,0.2847 
+"09007","22490","5502.02","Middlesex CT","East Hampton town, Middlesex CT",1347,0.239 
+"09007","26270","6301.01","Middlesex CT","Essex town, Middlesex CT",1952,0.5864 
+"09007","26270","6301.02","Middlesex CT","Essex town, Middlesex CT",1377,0.4136 
+"09007","35230","5901.01","Middlesex CT","Haddam town, Middlesex CT",1782,0.5034 
+"09007","35230","5901.02","Middlesex CT","Haddam town, Middlesex CT",1758,0.4966 
+"09007","40710","6401.00","Middlesex CT","Killingworth town, Middlesex CT",2601,1 
+"09007","47080","5801.00","Middlesex CT","Middlefield town, Middlesex CT",1882,1 
+"09007","47360","5411.00","Middlesex CT","Middletown town, Middlesex CT",1263,0.0583 
+"09007","47360","5412.00","Middlesex CT","Middletown town, Middlesex CT",2534,0.1169 
+"09007","47360","5413.01","Middlesex CT","Middletown town, Middlesex CT",1346,0.0621 
+"09007","47360","5413.02","Middlesex CT","Middletown town, Middlesex CT",2255,0.1041 
+"09007","47360","5414.01","Middlesex CT","Middletown town, Middlesex CT",1248,0.0576 
+"09007","47360","5414.02","Middlesex CT","Middletown town, Middlesex CT",2805,0.1294 
+"09007","47360","5415.00","Middlesex CT","Middletown town, Middlesex CT",733,0.0338 
+"09007","47360","5416.00","Middlesex CT","Middletown town, Middlesex CT",951,0.0439 
+"09007","47360","5417.00","Middlesex CT","Middletown town, Middlesex CT",1619,0.0747 
+"09007","47360","5420.00","Middlesex CT","Middletown town, Middlesex CT",2088,0.0963 
+"09007","47360","5421.00","Middlesex CT","Middletown town, Middlesex CT",1528,0.0705 
+"09007","47360","5422.00","Middlesex CT","Middletown town, Middlesex CT",754,0.0348 
+"09007","47360","6802.00","Middlesex CT","Middletown town, Middlesex CT",2547,0.1175 
+"09007","57320","6701.00","Middlesex CT","Old Saybrook town, Middlesex CT",2475,0.4216 
+"09007","57320","6702.00","Middlesex CT","Old Saybrook town, Middlesex CT",3395,0.5784 
+"09007","61800","5601.00","Middlesex CT","Portland town, Middlesex CT",2450,0.5935 
+"09007","61800","5602.00","Middlesex CT","Portland town, Middlesex CT",1678,0.4065 
+"09007","81680","6801.01","Middlesex CT","Westbrook town, Middlesex CT",1188,0.2988 
+"09007","81680","6801.02","Middlesex CT","Westbrook town, Middlesex CT",2788,0.7012 
+"09009","01220","1251.00","New Haven CT","Ansonia town, New Haven CT",1756,0.2167 
+"09009","01220","1252.00","New Haven CT","Ansonia town, New Haven CT",2646,0.3265 
+"09009","01220","1253.00","New Haven CT","Ansonia town, New Haven CT",2198,0.2712 
+"09009","01220","1254.00","New Haven CT","Ansonia town, New Haven CT",1504,0.1856 
+"09009","03250","3411.00","New Haven CT","Beacon Falls town, New Haven CT",2618,1 
+"09009","04580","1611.00","New Haven CT","Bethany town, New Haven CT",2039,1 
+"09009","07310","1841.01","New Haven CT","Branford town, New Haven CT",2962,0.2089 
+"09009","07310","1842.00","New Haven CT","Branford town, New Haven CT",2022,0.1426 
+"09009","07310","1843.00","New Haven CT","Branford town, New Haven CT",2264,0.1597 
+"09009","07310","1844.00","New Haven CT","Branford town, New Haven CT",1826,0.1288 
+"09009","07310","1845.00","New Haven CT","Branford town, New Haven CT",1092,0.077 
+"09009","07310","1846.00","New Haven CT","Branford town, New Haven CT",1398,0.0986 
+"09009","07310","1847.00","New Haven CT","Branford town, New Haven CT",2616,0.1845 
+"09009","14160","3431.01","New Haven CT","Cheshire town, New Haven CT",1749,0.1626 
+"09009","14160","3431.02","New Haven CT","Cheshire town, New Haven CT",1618,0.1504 
+"09009","14160","3432.00","New Haven CT","Cheshire town, New Haven CT",2298,0.2136 
+"09009","14160","3433.00","New Haven CT","Cheshire town, New Haven CT",2646,0.246 
+"09009","14160","3434.00","New Haven CT","Cheshire town, New Haven CT",2447,0.2275 
+"09009","19550","1201.00","New Haven CT","Derby town, New Haven CT",2872,0.4987 
+"09009","19550","1202.00","New Haven CT","Derby town, New Haven CT",2887,0.5013 
+"09009","22910","1801.01","New Haven CT","East Haven town, New Haven CT",1208,0.0975 
+"09009","22910","1801.02","New Haven CT","East Haven town, New Haven CT",2043,0.1648 
+"09009","22910","1802.00","New Haven CT","East Haven town, New Haven CT",2496,0.2014 
+"09009","22910","1803.00","New Haven CT","East Haven town, New Haven CT",1118,0.0902 
+"09009","22910","1804.00","New Haven CT","East Haven town, New Haven CT",968,0.0781 
+"09009","22910","1805.00","New Haven CT","East Haven town, New Haven CT",1811,0.1461 
+"09009","22910","1806.01","New Haven CT","East Haven town, New Haven CT",1257,0.1014 
+"09009","22910","1806.02","New Haven CT","East Haven town, New Haven CT",1493,0.1205 
+"09009","34950","1901.00","New Haven CT","Guilford town, New Haven CT",1662,0.1715 
+"09009","34950","1902.00","New Haven CT","Guilford town, New Haven CT",1937,0.1998 
+"09009","34950","1903.01","New Haven CT","Guilford town, New Haven CT",2502,0.2581 
+"09009","34950","1903.02","New Haven CT","Guilford town, New Haven CT",2214,0.2284 
+"09009","34950","1903.03","New Haven CT","Guilford town, New Haven CT",1378,0.1422 
+"09009","35650","1651.00","New Haven CT","Hamden town, New Haven CT",1621,0.0624 
+"09009","35650","1652.00","New Haven CT","Hamden town, New Haven CT",1175,0.0452 
+"09009","35650","1653.00","New Haven CT","Hamden town, New Haven CT",1061,0.0408 
+"09009","35650","1654.00","New Haven CT","Hamden town, New Haven CT",3097,0.1192 
+"09009","35650","1655.00","New Haven CT","Hamden town, New Haven CT",1966,0.0757 
+"09009","35650","1656.00","New Haven CT","Hamden town, New Haven CT",2471,0.0951 
+"09009","35650","1657.00","New Haven CT","Hamden town, New Haven CT",1576,0.0607 
+"09009","35650","1658.01","New Haven CT","Hamden town, New Haven CT",2837,0.1092 
+"09009","35650","1658.02","New Haven CT","Hamden town, New Haven CT",1547,0.0595 
+"09009","35650","1659.00","New Haven CT","Hamden town, New Haven CT",2790,0.1074 
+"09009","35650","1660.02","New Haven CT","Hamden town, New Haven CT",2072,0.0797 
+"09009","35650","1660.03","New Haven CT","Hamden town, New Haven CT",1344,0.0517 
+"09009","35650","1660.04","New Haven CT","Hamden town, New Haven CT",2427,0.0934 
+"09009","44560","1941.01","New Haven CT","Madison town, New Haven CT",1357,0.1684 
+"09009","44560","1941.02","New Haven CT","Madison town, New Haven CT",1837,0.2279 
+"09009","44560","1942.01","New Haven CT","Madison town, New Haven CT",2851,0.3537 
+"09009","44560","1942.02","New Haven CT","Madison town, New Haven CT",2015,0.25 
+"09009","46520","1701.00","New Haven CT","Meriden town, New Haven CT",838,0.032 
+"09009","46520","1702.00","New Haven CT","Meriden town, New Haven CT",831,0.0317 
+"09009","46520","1703.00","New Haven CT","Meriden town, New Haven CT",915,0.035 
+"09009","46520","1704.00","New Haven CT","Meriden town, New Haven CT",755,0.0288 
+"09009","46520","1705.00","New Haven CT","Meriden town, New Haven CT",2104,0.0804 
+"09009","46520","1706.00","New Haven CT","Meriden town, New Haven CT",1128,0.0431 
+"09009","46520","1707.00","New Haven CT","Meriden town, New Haven CT",1069,0.0408 
+"09009","46520","1708.00","New Haven CT","Meriden town, New Haven CT",2551,0.0975 
+"09009","46520","1709.00","New Haven CT","Meriden town, New Haven CT",1364,0.0521 
+"09009","46520","1710.00","New Haven CT","Meriden town, New Haven CT",955,0.0365 
+"09009","46520","1711.00","New Haven CT","Meriden town, New Haven CT",2501,0.0955 
+"09009","46520","1712.01","New Haven CT","Meriden town, New Haven CT",1903,0.0727 
+"09009","46520","1712.02","New Haven CT","Meriden town, New Haven CT",1553,0.0593 
+"09009","46520","1713.00","New Haven CT","Meriden town, New Haven CT",1498,0.0572 
+"09009","46520","1714.00","New Haven CT","Meriden town, New Haven CT",887,0.0339 
+"09009","46520","1715.00","New Haven CT","Meriden town, New Haven CT",1413,0.054 
+"09009","46520","1716.00","New Haven CT","Meriden town, New Haven CT",2251,0.086 
+"09009","46520","1717.00","New Haven CT","Meriden town, New Haven CT",1661,0.0635 
+"09009","46940","3441.00","New Haven CT","Middlebury town, New Haven CT",1837,0.6029 
+"09009","46940","3442.00","New Haven CT","Middlebury town, New Haven CT",1210,0.3971 
+"09009","47535","1501.00","New Haven CT","Milford town, New Haven CT",2408,0.1014 
+"09009","47535","1502.00","New Haven CT","Milford town, New Haven CT",1576,0.0664 
+"09009","47535","1503.00","New Haven CT","Milford town, New Haven CT",1788,0.0753 
+"09009","47535","1504.00","New Haven CT","Milford town, New Haven CT",2132,0.0898 
+"09009","47535","1505.00","New Haven CT","Milford town, New Haven CT",1791,0.0754 
+"09009","47535","1506.00","New Haven CT","Milford town, New Haven CT",2774,0.1168 
+"09009","47535","1507.00","New Haven CT","Milford town, New Haven CT",1557,0.0656 
+"09009","47535","1508.00","New Haven CT","Milford town, New Haven CT",1687,0.071 
+"09009","47535","1509.00","New Haven CT","Milford town, New Haven CT",1668,0.0702 
+"09009","47535","1510.00","New Haven CT","Milford town, New Haven CT",2112,0.0889 
+"09009","47535","1511.00","New Haven CT","Milford town, New Haven CT",2887,0.1216 
+"09009","47535","1512.00","New Haven CT","Milford town, New Haven CT",1369,0.0576 
+"09009","49950","3451.00","New Haven CT","Naugatuck town, New Haven CT",2991,0.2259 
+"09009","49950","3452.01","New Haven CT","Naugatuck town, New Haven CT",2771,0.2092 
+"09009","49950","3452.02","New Haven CT","Naugatuck town, New Haven CT",1633,0.1233 
+"09009","49950","3453.00","New Haven CT","Naugatuck town, New Haven CT",2830,0.2137 
+"09009","49950","3454.00","New Haven CT","Naugatuck town, New Haven CT",3014,0.2276 
+"09009","49950","3472.00","New Haven CT","Naugatuck town, New Haven CT",4,0.0003 
+"09009","52070","1401.01","New Haven CT","New Haven town, New Haven CT",1011,0.0176 
+"09009","52070","1401.02","New Haven CT","New Haven town, New Haven CT",2060,0.0358 
+"09009","52070","1402.00","New Haven CT","New Haven town, New Haven CT",473,0.0082 
+"09009","52070","1403.00","New Haven CT","New Haven town, New Haven CT",955,0.0166 
+"09009","52070","1404.00","New Haven CT","New Haven town, New Haven CT",1349,0.0235 
+"09009","52070","1405.00","New Haven CT","New Haven town, New Haven CT",1330,0.0231 
+"09009","52070","1406.00","New Haven CT","New Haven town, New Haven CT",1821,0.0317 
+"09009","52070","1407.00","New Haven CT","New Haven town, New Haven CT",2252,0.0391 
+"09009","52070","1408.00","New Haven CT","New Haven town, New Haven CT",1670,0.029 
+"09009","52070","1409.00","New Haven CT","New Haven town, New Haven CT",2123,0.0369 
+"09009","52070","1410.00","New Haven CT","New Haven town, New Haven CT",1872,0.0325 
+"09009","52070","1411.00","New Haven CT","New Haven town, New Haven CT",1154,0.0201 
+"09009","52070","1412.00","New Haven CT","New Haven town, New Haven CT",1940,0.0337 
+"09009","52070","1413.01","New Haven CT","New Haven town, New Haven CT",2275,0.0395 
+"09009","52070","1414.00","New Haven CT","New Haven town, New Haven CT",2017,0.0351 
+"09009","52070","1415.00","New Haven CT","New Haven town, New Haven CT",3052,0.0531 
+"09009","52070","1416.00","New Haven CT","New Haven town, New Haven CT",2088,0.0363 
+"09009","52070","1418.00","New Haven CT","New Haven town, New Haven CT",1962,0.0341 
+"09009","52070","1419.00","New Haven CT","New Haven town, New Haven CT",2868,0.0499 
+"09009","52070","1420.00","New Haven CT","New Haven town, New Haven CT",2162,0.0376 
+"09009","52070","1421.00","New Haven CT","New Haven town, New Haven CT",615,0.0107 
+"09009","52070","1422.00","New Haven CT","New Haven town, New Haven CT",1071,0.0186 
+"09009","52070","1423.00","New Haven CT","New Haven town, New Haven CT",2143,0.0373 
+"09009","52070","1424.00","New Haven CT","New Haven town, New Haven CT",2142,0.0372 
+"09009","52070","1425.00","New Haven CT","New Haven town, New Haven CT",2229,0.0387 
+"09009","52070","1426.01","New Haven CT","New Haven town, New Haven CT",2554,0.0444 
+"09009","52070","1426.04","New Haven CT","New Haven town, New Haven CT",1136,0.0197 
+"09009","52070","1426.05","New Haven CT","New Haven town, New Haven CT",2330,0.0405 
+"09009","52070","1427.00","New Haven CT","New Haven town, New Haven CT",2704,0.047 
+"09009","52070","1428.00","New Haven CT","New Haven town, New Haven CT",2110,0.0367 
+"09009","52070","3614.01","New Haven CT","New Haven town, New Haven CT",1773,0.0308 
+"09009","52070","3614.02","New Haven CT","New Haven town, New Haven CT",284,0.0049 
+"09009","53890","1861.00","New Haven CT","North Branford town, New Haven CT",3040,0.5397 
+"09009","53890","1862.00","New Haven CT","North Branford town, New Haven CT",2593,0.4603 
+"09009","54870","1671.01","New Haven CT","North Haven town, New Haven CT",1769,0.1772 
+"09009","54870","1671.02","New Haven CT","North Haven town, New Haven CT",1663,0.1666 
+"09009","54870","1672.01","New Haven CT","North Haven town, New Haven CT",1775,0.1778 
+"09009","54870","1672.02","New Haven CT","North Haven town, New Haven CT",1962,0.1966 
+"09009","54870","1673.01","New Haven CT","North Haven town, New Haven CT",2812,0.2817 
+"09009","57600","1571.00","New Haven CT","Orange town, New Haven CT",1169,0.2133 
+"09009","57600","1572.00","New Haven CT","Orange town, New Haven CT",1386,0.2529 
+"09009","57600","1573.00","New Haven CT","Orange town, New Haven CT",1345,0.2454 
+"09009","57600","1574.00","New Haven CT","Orange town, New Haven CT",1580,0.2883 
+"09009","58300","3461.01","New Haven CT","Oxford town, New Haven CT",2829,0.5633 
+"09009","58300","3461.02","New Haven CT","Oxford town, New Haven CT",2193,0.4367 
+"09009","62290","3471.00","New Haven CT","Prospect town, New Haven CT",2369,0.6304 
+"09009","62290","3472.00","New Haven CT","Prospect town, New Haven CT",1389,0.3696 
+"09009","67610","1301.01","New Haven CT","Seymour town, New Haven CT",2274,0.3197 
+"09009","67610","1301.02","New Haven CT","Seymour town, New Haven CT",1363,0.1916 
+"09009","67610","1302.01","New Haven CT","Seymour town, New Haven CT",1354,0.1904 
+"09009","67610","1302.02","New Haven CT","Seymour town, New Haven CT",2121,0.2982 
+"09009","69640","3481.11","New Haven CT","Southbury town, New Haven CT",977,0.1054 
+"09009","69640","3481.22","New Haven CT","Southbury town, New Haven CT",1524,0.1644 
+"09009","69640","3481.23","New Haven CT","Southbury town, New Haven CT",2154,0.2324 
+"09009","69640","3481.24","New Haven CT","Southbury town, New Haven CT",1629,0.1757 
+"09009","69640","3481.25","New Haven CT","Southbury town, New Haven CT",2986,0.3221 
+"09009","78740","1751.00","New Haven CT","Wallingford town, New Haven CT",1401,0.074 
+"09009","78740","1752.00","New Haven CT","Wallingford town, New Haven CT",1204,0.0636 
+"09009","78740","1753.00","New Haven CT","Wallingford town, New Haven CT",1842,0.0973 
+"09009","78740","1754.00","New Haven CT","Wallingford town, New Haven CT",2096,0.1107 
+"09009","78740","1755.01","New Haven CT","Wallingford town, New Haven CT",534,0.0282 
+"09009","78740","1755.02","New Haven CT","Wallingford town, New Haven CT",2789,0.1473 
+"09009","78740","1756.00","New Haven CT","Wallingford town, New Haven CT",2206,0.1165 
+"09009","78740","1757.00","New Haven CT","Wallingford town, New Haven CT",740,0.0391 
+"09009","78740","1758.00","New Haven CT","Wallingford town, New Haven CT",1479,0.0781 
+"09009","78740","1759.00","New Haven CT","Wallingford town, New Haven CT",2278,0.1203 
+"09009","78740","1760.00","New Haven CT","Wallingford town, New Haven CT",2369,0.1251 
+"09009","80070","3501.01","New Haven CT","Waterbury town, New Haven CT",2748,0.0568 
+"09009","80070","3502.00","New Haven CT","Waterbury town, New Haven CT",1507,0.0311 
+"09009","80070","3503.00","New Haven CT","Waterbury town, New Haven CT",830,0.0172 
+"09009","80070","3504.00","New Haven CT","Waterbury town, New Haven CT",1195,0.0247 
+"09009","80070","3505.00","New Haven CT","Waterbury town, New Haven CT",1082,0.0224 
+"09009","80070","3508.00","New Haven CT","Waterbury town, New Haven CT",2310,0.0477 
+"09009","80070","3509.00","New Haven CT","Waterbury town, New Haven CT",719,0.0149 
+"09009","80070","3510.00","New Haven CT","Waterbury town, New Haven CT",1638,0.0338 
+"09009","80070","3511.00","New Haven CT","Waterbury town, New Haven CT",1941,0.0401 
+"09009","80070","3512.00","New Haven CT","Waterbury town, New Haven CT",1588,0.0328 
+"09009","80070","3513.00","New Haven CT","Waterbury town, New Haven CT",2372,0.049 
+"09009","80070","3514.00","New Haven CT","Waterbury town, New Haven CT",1664,0.0344 
+"09009","80070","3515.00","New Haven CT","Waterbury town, New Haven CT",2026,0.0419 
+"09009","80070","3516.01","New Haven CT","Waterbury town, New Haven CT",1604,0.0331 
+"09009","80070","3516.02","New Haven CT","Waterbury town, New Haven CT",2862,0.0591 
+"09009","80070","3517.00","New Haven CT","Waterbury town, New Haven CT",1342,0.0277 
+"09009","80070","3518.00","New Haven CT","Waterbury town, New Haven CT",2061,0.0426 
+"09009","80070","3519.00","New Haven CT","Waterbury town, New Haven CT",1121,0.0232 
+"09009","80070","3520.00","New Haven CT","Waterbury town, New Haven CT",1943,0.0402 
+"09009","80070","3521.00","New Haven CT","Waterbury town, New Haven CT",1744,0.036 
+"09009","80070","3522.00","New Haven CT","Waterbury town, New Haven CT",956,0.0198 
+"09009","80070","3523.00","New Haven CT","Waterbury town, New Haven CT",1245,0.0257 
+"09009","80070","3524.00","New Haven CT","Waterbury town, New Haven CT",1276,0.0264 
+"09009","80070","3525.00","New Haven CT","Waterbury town, New Haven CT",1344,0.0278 
+"09009","80070","3526.00","New Haven CT","Waterbury town, New Haven CT",2337,0.0483 
+"09009","80070","3527.01","New Haven CT","Waterbury town, New Haven CT",1653,0.0342 
+"09009","80070","3527.02","New Haven CT","Waterbury town, New Haven CT",2509,0.0518 
+"09009","80070","3528.00","New Haven CT","Waterbury town, New Haven CT",2775,0.0573 
+"09009","82870","1541.01","New Haven CT","West Haven town, New Haven CT",1178,0.0518 
+"09009","82870","1541.02","New Haven CT","West Haven town, New Haven CT",2005,0.0882 
+"09009","82870","1542.00","New Haven CT","West Haven town, New Haven CT",2815,0.1238 
+"09009","82870","1545.00","New Haven CT","West Haven town, New Haven CT",2051,0.0902 
+"09009","82870","1546.00","New Haven CT","West Haven town, New Haven CT",1780,0.0783 
+"09009","82870","1547.00","New Haven CT","West Haven town, New Haven CT",2597,0.1142 
+"09009","82870","1548.00","New Haven CT","West Haven town, New Haven CT",2120,0.0932 
+"09009","82870","1549.00","New Haven CT","West Haven town, New Haven CT",1772,0.0779 
+"09009","82870","1550.00","New Haven CT","West Haven town, New Haven CT",2318,0.102 
+"09009","82870","1551.00","New Haven CT","West Haven town, New Haven CT",1870,0.0823 
+"09009","82870","3615.00","New Haven CT","West Haven town, New Haven CT",2229,0.098 
+"09009","87560","3611.00","New Haven CT","Wolcott town, New Haven CT",2545,0.3972 
+"09009","87560","3612.00","New Haven CT","Wolcott town, New Haven CT",2239,0.3494 
+"09009","87560","3613.00","New Haven CT","Wolcott town, New Haven CT",1624,0.2534 
+"09009","87700","1601.00","New Haven CT","Woodbridge town, New Haven CT",1274,0.3665 
+"09009","87700","1602.00","New Haven CT","Woodbridge town, New Haven CT",2202,0.6335 
+"09011","06820","7131.00","New London CT","Bozrah town, New London CT",1131,1 
+"09011","15910","7141.01","New London CT","Colchester town, New London CT",1697,0.2635 
+"09011","15910","7141.03","New London CT","Colchester town, New London CT",2730,0.4238 
+"09011","15910","7141.04","New London CT","Colchester town, New London CT",2014,0.3127 
+"09011","23400","7161.01","New London CT","East Lyme town, New London CT",1843,0.203 
+"09011","23400","7161.02","New London CT","East Lyme town, New London CT",2323,0.2558 
+"09011","23400","8707.01","New London CT","East Lyme town, New London CT",1084,0.1194 
+"09011","23400","8707.03","New London CT","East Lyme town, New London CT",1061,0.1169 
+"09011","23400","8707.04","New London CT","East Lyme town, New London CT",2769,0.305 
+"09011","29910","7121.00","New London CT","Franklin town, New London CT",790,1 
+"09011","33900","7091.00","New London CT","Griswold town, New London CT",2510,0.4993 
+"09011","33900","7092.00","New London CT","Griswold town, New London CT",2517,0.5007 
+"09011","34250","7021.00","New London CT","Groton town, New London CT",1935,0.1066 
+"09011","34250","7023.00","New London CT","Groton town, New London CT",999,0.055 
+"09011","34250","7024.00","New London CT","Groton town, New London CT",1808,0.0996 
+"09011","34250","7025.00","New London CT","Groton town, New London CT",2270,0.125 
+"09011","34250","7026.00","New London CT","Groton town, New London CT",580,0.0319 
+"09011","34250","7027.00","New London CT","Groton town, New London CT",2756,0.1518 
+"09011","34250","7028.00","New London CT","Groton town, New London CT",1726,0.0951 
+"09011","34250","7029.00","New London CT","Groton town, New London CT",1649,0.0908 
+"09011","34250","7030.00","New London CT","Groton town, New London CT",1934,0.1065 
+"09011","34250","8702.00","New London CT","Groton town, New London CT",2494,0.1374 
+"09011","34250","9800.00","New London CT","Groton town, New London CT",3,0.0002 
+"09011","42390","8701.00","New London CT","Lebanon town, New London CT",3147,1 
+"09011","42600","7011.00","New London CT","Ledyard town, New London CT",3220,0.5236 
+"09011","42600","7012.00","New London CT","Ledyard town, New London CT",2923,0.4753 
+"09011","42600","9800.00","New London CT","Ledyard town, New London CT",7,0.0011 
+"09011","43230","7101.00","New London CT","Lisbon town, New London CT",1728,1 
+"09011","44210","6501.00","New London CT","Lyme town, New London CT",1220,1 
+"09011","48900","6952.01","New London CT","Montville town, New London CT",2280,0.308 
+"09011","48900","6952.02","New London CT","Montville town, New London CT",2403,0.3246 
+"09011","48900","8705.01","New London CT","Montville town, New London CT",1746,0.2359 
+"09011","48900","8705.02","New London CT","Montville town, New London CT",973,0.1315 
+"09011","52350","6903.00","New London CT","New London town, New London CT",2818,0.2325 
+"09011","52350","6904.00","New London CT","New London town, New London CT",874,0.0721 
+"09011","52350","6905.00","New London CT","New London town, New London CT",1773,0.1463 
+"09011","52350","6907.00","New London CT","New London town, New London CT",654,0.054 
+"09011","52350","6908.00","New London CT","New London town, New London CT",1480,0.1221 
+"09011","52350","6909.00","New London CT","New London town, New London CT",2809,0.2318 
+"09011","52350","8703.00","New London CT","New London town, New London CT",1711,0.1412 
+"09011","55500","7071.00","New London CT","North Stonington town, New London CT",2226,1 
+"09011","56270","6961.00","New London CT","Norwich town, New London CT",2573,0.1371 
+"09011","56270","6962.00","New London CT","Norwich town, New London CT",2244,0.1196 
+"09011","56270","6963.00","New London CT","Norwich town, New London CT",1164,0.062 
+"09011","56270","6964.01","New London CT","Norwich town, New London CT",2677,0.1426 
+"09011","56270","6965.00","New London CT","Norwich town, New London CT",1533,0.0817 
+"09011","56270","6966.00","New London CT","Norwich town, New London CT",1514,0.0807 
+"09011","56270","6967.01","New London CT","Norwich town, New London CT",2772,0.1477 
+"09011","56270","6968.00","New London CT","Norwich town, New London CT",1938,0.1033 
+"09011","56270","6970.00","New London CT","Norwich town, New London CT",2354,0.1254 
+"09011","57040","6601.01","New London CT","Old Lyme town, New London CT",1708,0.3424 
+"09011","57040","6601.03","New London CT","Old Lyme town, New London CT",1480,0.2967 
+"09011","57040","6601.04","New London CT","Old Lyme town, New London CT",1800,0.3609 
+"09011","62150","7001.00","New London CT","Preston town, New London CT",2049,1 
+"09011","66210","7151.00","New London CT","Salem town, New London CT",1719,1 
+"09011","71670","7111.00","New London CT","Sprague town, New London CT",1268,1 
+"09011","73770","7051.01","New London CT","Stonington town, New London CT",2024,0.2142 
+"09011","73770","7051.02","New London CT","Stonington town, New London CT",2044,0.2164 
+"09011","73770","7052.00","New London CT","Stonington town, New London CT",2153,0.2279 
+"09011","73770","7053.00","New London CT","Stonington town, New London CT",1961,0.2076 
+"09011","73770","7054.00","New London CT","Stonington town, New London CT",1265,0.1339 
+"09011","78600","7081.00","New London CT","Voluntown town, New London CT",1135,1 
+"09011","80280","6933.00","New London CT","Waterford town, New London CT",2740,0.3088 
+"09011","80280","6934.00","New London CT","Waterford town, New London CT",2048,0.2308 
+"09011","80280","6935.00","New London CT","Waterford town, New London CT",1560,0.1758 
+"09011","80280","6936.00","New London CT","Waterford town, New London CT",1268,0.1429 
+"09011","80280","6937.00","New London CT","Waterford town, New London CT",1257,0.1417 
+"09013","01080","5281.00","Tolland CT","Andover town, Tolland CT",1324,1 
+"09013","06260","5291.00","Tolland CT","Bolton town, Tolland CT",2045,1 
+"09013","16400","8601.00","Tolland CT","Columbia town, Tolland CT",2294,1 
+"09013","17800","8501.00","Tolland CT","Coventry town, Tolland CT",2226,0.4222 
+"09013","17800","8502.00","Tolland CT","Coventry town, Tolland CT",3047,0.5778 
+"09013","25360","5351.01","Tolland CT","Ellington town, Tolland CT",2666,0.3779 
+"09013","25360","5351.02","Tolland CT","Ellington town, Tolland CT",1653,0.2343 
+"09013","25360","5352.00","Tolland CT","Ellington town, Tolland CT",2735,0.3877 
+"09013","37910","5261.01","Tolland CT","Hebron town, Tolland CT",1787,0.4939 
+"09013","37910","5261.02","Tolland CT","Hebron town, Tolland CT",1831,0.5061 
+"09013","44910","8811.00","Tolland CT","Mansfield town, Tolland CT",2312,0.3324 
+"09013","44910","8812.00","Tolland CT","Mansfield town, Tolland CT",278,0.04 
+"09013","44910","8813.00","Tolland CT","Mansfield town, Tolland CT",1803,0.2592 
+"09013","44910","8815.00","Tolland CT","Mansfield town, Tolland CT",2563,0.3685 
+"09013","69220","5381.00","Tolland CT","Somers town, Tolland CT",1,0.0003 
+"09013","69220","5382.01","Tolland CT","Somers town, Tolland CT",1993,0.5502 
+"09013","69220","5382.02","Tolland CT","Somers town, Tolland CT",1628,0.4495 
+"09013","72090","8901.00","Tolland CT","Stafford town, Tolland CT",1892,0.3613 
+"09013","72090","8902.02","Tolland CT","Stafford town, Tolland CT",2085,0.3981 
+"09013","72090","8902.04","Tolland CT","Stafford town, Tolland CT",1260,0.2406 
+"09013","76290","5331.02","Tolland CT","Tolland town, Tolland CT",2175,0.3863 
+"09013","76290","5331.03","Tolland CT","Tolland town, Tolland CT",1651,0.2933 
+"09013","76290","5331.04","Tolland CT","Tolland town, Tolland CT",1804,0.3204 
+"09013","77830","8902.03","Tolland CT","Union town, Tolland CT",377,1 
+"09013","78250","5301.00","Tolland CT","Vernon town, Tolland CT",1149,0.0778 
+"09013","78250","5302.00","Tolland CT","Vernon town, Tolland CT",3048,0.2065 
+"09013","78250","5303.01","Tolland CT","Vernon town, Tolland CT",2898,0.1963 
+"09013","78250","5303.02","Tolland CT","Vernon town, Tolland CT",3039,0.2059 
+"09013","78250","5304.00","Tolland CT","Vernon town, Tolland CT",2098,0.1421 
+"09013","78250","5305.00","Tolland CT","Vernon town, Tolland CT",1418,0.0961 
+"09013","78250","5306.00","Tolland CT","Vernon town, Tolland CT",1111,0.0753 
+"09013","85950","8401.00","Tolland CT","Willington town, Tolland CT",2685,1 
+"09015","01430","8301.00","Windham CT","Ashford town, Windham CT",1923,1 
+"09015","09190","9051.01","Windham CT","Brooklyn town, Windham CT",1936,0.5793 
+"09015","09190","9051.02","Windham CT","Brooklyn town, Windham CT",1406,0.4207 
+"09015","12130","9061.00","Windham CT","Canterbury town, Windham CT",2044,1 
+"09015","13810","8150.00","Windham CT","Chaplin town, Windham CT",955,1 
+"09015","21860","9022.00","Windham CT","Eastford town, Windham CT",806,1 
+"09015","36000","8200.00","Windham CT","Hampton town, Windham CT",790,1 
+"09015","40500","9041.01","Windham CT","Killingly town, Windham CT",2015,0.2556 
+"09015","40500","9041.02","Windham CT","Killingly town, Windham CT",1164,0.1476 
+"09015","40500","9044.00","Windham CT","Killingly town, Windham CT",2098,0.2661 
+"09015","40500","9045.00","Windham CT","Killingly town, Windham CT",2607,0.3307 
+"09015","59980","9071.00","Windham CT","Plainfield town, Windham CT",1794,0.2864 
+"09015","59980","9072.00","Windham CT","Plainfield town, Windham CT",2231,0.3562 
+"09015","59980","9073.00","Windham CT","Plainfield town, Windham CT",2239,0.3574 
+"09015","61030","9025.00","Windham CT","Pomfret town, Windham CT",1686,1 
+"09015","62710","9031.01","Windham CT","Putnam town, Windham CT",1641,0.3823 
+"09015","62710","9031.02","Windham CT","Putnam town, Windham CT",1667,0.3884 
+"09015","62710","9032.00","Windham CT","Putnam town, Windham CT",984,0.2293 
+"09015","67400","8250.00","Windham CT","Scotland town, Windham CT",650,1 
+"09015","73420","9081.00","Windham CT","Sterling town, Windham CT",1479,1 
+"09015","75870","9001.00","Windham CT","Thompson town, Windham CT",1985,0.4791 
+"09015","75870","9002.00","Windham CT","Thompson town, Windham CT",2158,0.5209 
+"09015","86790","8003.00","Windham CT","Windham town, Windham CT",1601,0.1657 
+"09015","86790","8004.00","Windham CT","Windham town, Windham CT",1689,0.1748 
+"09015","86790","8005.01","Windham CT","Windham town, Windham CT",1640,0.1697 
+"09015","86790","8005.02","Windham CT","Windham town, Windham CT",1400,0.1449 
+"09015","86790","8006.00","Windham CT","Windham town, Windham CT",1744,0.1805 
+"09015","86790","8007.00","Windham CT","Windham town, Windham CT",1589,0.1644 
+"09015","88190","9011.01","Windham CT","Woodstock town, Windham CT",1225,0.3339 
+"09015","88190","9011.02","Windham CT","Woodstock town, Windham CT",2444,0.6661 
