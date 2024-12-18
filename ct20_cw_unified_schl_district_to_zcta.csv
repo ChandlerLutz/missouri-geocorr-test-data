@@ -1,0 +1,389 @@
+"state","sduni20","zcta","stab","ZIPName","uschlnm20","hus20","afact"
+"State code","Unified school district (2020)","ZIP census tabulation area","State abbr.","ZIP Code name","Unified school district name 2020","Total housing units (2020 Census)","sduni20-to-zcta allocation factor"
+"09","00060","06401","CT","Ansonia, CT","Ansonia School District",8095,0.9989 
+"09","00060","06418","CT","Derby, CT","Ansonia School District",9,0.0011 
+"09","00120","06001","CT","Avon, CT","Avon School District",7713,1 
+"09","00210","06023","CT","East Berlin, CT","Berlin School District",583,0.068 
+"09","00210","06037","CT","Berlin, CT","Berlin School District",7985,0.9316 
+"09","00210","06052","CT","New Britain, CT","Berlin School District",3,0.0004 
+"09","00270","06801","CT","Bethel, CT","Bethel School District",7926,0.9932 
+"09","00270","06810","CT","Danbury, CT","Bethel School District",54,0.0068 
+"09","00330","06001","CT","Avon, CT","Bloomfield School District",1,0.0001 
+"09","00330","06002","CT","Bloomfield, CT","Bloomfield School District",9716,0.9999 
+"09","00360","06043","CT","Bolton, CT","Bolton School District",2045,1 
+"09","00420","06405","CT","Branford, CT","Branford School District",14147,0.9977 
+"09","00420","06437","CT","Guilford, CT","Branford School District",2,0.0001 
+"09","00420","06471","CT","North Branford, CT","Branford School District",31,0.0022 
+"09","00450","06604","CT","Bridgeport, CT","Bridgeport School District",12342,0.2096 
+"09","00450","06605","CT","Bridgeport, CT","Bridgeport School District",10003,0.1699 
+"09","00450","06606","CT","Bridgeport, CT","Bridgeport School District",17902,0.3041 
+"09","00450","06607","CT","Bridgeport, CT","Bridgeport School District",3435,0.0583 
+"09","00450","06608","CT","Bridgeport, CT","Bridgeport School District",5510,0.0936 
+"09","00450","06610","CT","Bridgeport, CT","Bridgeport School District",9681,0.1644 
+"09","00450","06611","CT","Trumbull, CT","Bridgeport School District",1,0 
+"09","00510","06010","CT","Bristol, CT","Bristol School District",27215,0.9987 
+"09","00510","06062","CT","Plainville, CT","Bristol School District",36,0.0013 
+"09","00540","06804","CT","Brookfield, CT","Brookfield School District",7116,1 
+"09","00690","06019","CT","Canton, CT","Canton School District",4261,0.9722 
+"09","00690","06020","CT","Canton Center, CT (PO boxes)","Canton School District",12,0.0027 
+"09","00690","06022","CT","Collinsville, CT (PO boxes)","Canton School District",58,0.0132 
+"09","00690","06059","CT","North Canton, CT (PO boxes)","Canton School District",52,0.0119 
+"09","00750","06410","CT","Cheshire, CT","Cheshire School District",10678,0.9926 
+"09","00750","06492","CT","Wallingford, CT","Cheshire School District",80,0.0074 
+"09","00810","06413","CT","Clinton, CT","Clinton School District",6267,0.9975 
+"09","00810","06498","CT","Westbrook, CT","Clinton School District",16,0.0025 
+"09","00840","06415","CT","Colchester, CT","Colchester School District",6441,1 
+"09","00960","06238","CT","Coventry, CT","Coventry School District",5273,1 
+"09","00990","06416","CT","Cromwell, CT","Cromwell School District",6162,1 
+"09","01020","06804","CT","Brookfield, CT","Danbury School District",82,0.0024 
+"09","01020","06810","CT","Danbury, CT","Danbury School District",21518,0.6411 
+"09","01020","06811","CT","Danbury, CT","Danbury School District",11962,0.3564 
+"09","01050","06820","CT","Darien, CT","Darien School District",7265,1 
+"09","01110","06401","CT","Ansonia, CT","Derby School District",19,0.0033 
+"09","01110","06418","CT","Derby, CT","Derby School District",5740,0.9967 
+"09","01170","06026","CT","East Granby, CT","East Granby School District",2177,0.9973 
+"09","01170","06035","CT","Granby, CT","East Granby School District",6,0.0027 
+"09","01200","06415","CT","Colchester, CT","East Haddam School District",643,0.1436 
+"09","01200","06420","CT","Salem, CT","East Haddam School District",23,0.0051 
+"09","01200","06423","CT","East Haddam, CT","East Haddam School District",2294,0.5124 
+"09","01200","06469","CT","Moodus, CT","East Haddam School District",1517,0.3388 
+"09","01230","06414","CT","Cobalt, CT (PO boxes)","East Hampton School District",120,0.0213 
+"09","01230","06424","CT","East Hampton, CT","East Hampton School District",5349,0.9489 
+"09","01230","06456","CT","Middle Haddam, CT (PO boxes)","East Hampton School District",168,0.0298 
+"09","01260","06108","CT","East Hartford, CT","East Hartford School District",9889,0.4629 
+"09","01260","06118","CT","East Hartford, CT","East Hartford School District",11472,0.5371 
+"09","01290","06473","CT","North Haven, CT","East Haven School District",92,0.0074 
+"09","01290","06512","CT","East Haven, CT","East Haven School District",9641,0.7779 
+"09","01290","06513","CT","New Haven, CT","East Haven School District",2661,0.2147 
+"09","01320","06333","CT","East Lyme, CT","East Lyme School District",2912,0.3207 
+"09","01320","06357","CT","Niantic, CT","East Lyme School District",6168,0.6793 
+"09","01350","06016","CT","Broad Brook, CT","East Windsor School District",2932,0.5482 
+"09","01350","06088","CT","East Windsor, CT","East Windsor School District",2416,0.4518 
+"09","01440","06029","CT","Ellington, CT","Ellington School District",7032,0.9969 
+"09","01440","06066","CT","Vernon Rockville, CT","Ellington School District",4,0.0006 
+"09","01440","06076","CT","Stafford Springs, CT","Ellington School District",4,0.0006 
+"09","01440","06084","CT","Tolland, CT","Ellington School District",14,0.002 
+"09","01470","06082","CT","Enfield, CT","Enfield School District",17741,1 
+"09","01530","06824","CT","Fairfield, CT","Fairfield School District",12194,0.5547 
+"09","01530","06825","CT","Fairfield, CT","Fairfield School District",7935,0.361 
+"09","01530","06880","CT","Westport, CT","Fairfield School District",34,0.0015 
+"09","01530","06890","CT","Southport, CT","Fairfield School District",1819,0.0827 
+"09","01560","06001","CT","Avon, CT","Farmington School District",199,0.0171 
+"09","01560","06032","CT","Farmington, CT","Farmington School District",8383,0.7185 
+"09","01560","06053","CT","New Britain, CT","Farmington School District",9,0.0008 
+"09","01560","06062","CT","Plainville, CT","Farmington School District",2,0.0002 
+"09","01560","06085","CT","Unionville, CT","Farmington School District",3033,0.26 
+"09","01560","06107","CT","West Hartford, CT","Farmington School District",41,0.0035 
+"09","01620","06033","CT","Glastonbury, CT","Glastonbury School District",12315,0.8504 
+"09","01620","06073","CT","South Glastonbury, CT","Glastonbury School District",2166,0.1496 
+"09","01680","06035","CT","Granby, CT","Granby School District",3109,0.699 
+"09","01680","06060","CT","North Granby, CT","Granby School District",901,0.2026 
+"09","01680","06090","CT","West Granby, CT","Granby School District",438,0.0985 
+"09","01710","06807","CT","Cos Cob, CT","Greenwich School District",2845,0.1108 
+"09","01710","06830","CT","Greenwich, CT","Greenwich School District",11040,0.43 
+"09","01710","06831","CT","Greenwich, CT","Greenwich School District",6086,0.237 
+"09","01710","06870","CT","Old Greenwich, CT","Greenwich School District",2801,0.1091 
+"09","01710","06878","CT","Riverside, CT","Greenwich School District",2896,0.1128 
+"09","01710","06902","CT","Stamford, CT","Greenwich School District",9,0.0004 
+"09","01740","06331","CT","Canterbury, CT","Griswold School District",3,0.0006 
+"09","01740","06351","CT","Jewett City, CT","Griswold School District",5024,0.9994 
+"09","01770","06340","CT","Groton, CT","Groton School District",14131,0.7784 
+"09","01770","06355","CT","Mystic, CT","Groton School District",4023,0.2216 
+"09","01800","06405","CT","Branford, CT","Guilford School District",2,0.0002 
+"09","01800","06437","CT","Guilford, CT","Guilford School District",9688,0.9995 
+"09","01800","06443","CT","Madison, CT","Guilford School District",3,0.0003 
+"09","01860","06492","CT","Wallingford, CT","Hamden School District",5,0.0002 
+"09","01860","06511","CT","New Haven, CT","Hamden School District",70,0.0027 
+"09","01860","06514","CT","Hamden, CT","Hamden School District",11409,0.4391 
+"09","01860","06517","CT","Hamden, CT","Hamden School District",6839,0.2632 
+"09","01860","06518","CT","Hamden, CT","Hamden School District",7661,0.2948 
+"09","01920","06095","CT","Windsor, CT","Hartford School District",13,0.0002 
+"09","01920","06103","CT","Hartford, CT","Hartford School District",2102,0.0395 
+"09","01920","06105","CT","Hartford, CT","Hartford School District",10797,0.2027 
+"09","01920","06106","CT","Hartford, CT","Hartford School District",16088,0.3021 
+"09","01920","06110","CT","West Hartford, CT","Hartford School District",29,0.0005 
+"09","01920","06112","CT","Hartford, CT","Hartford School District",8611,0.1617 
+"09","01920","06114","CT","Hartford, CT","Hartford School District",10741,0.2017 
+"09","01920","06120","CT","Hartford, CT","Hartford School District",4878,0.0916 
+"09","02070","06239","CT","Danielson, CT","Killingly School District",4654,0.5903 
+"09","02070","06241","CT","Dayville, CT","Killingly School District",3000,0.3805 
+"09","02070","06243","CT","East Killingly, CT","Killingly School District",84,0.0107 
+"09","02070","06260","CT","Putnam, CT","Killingly School District",11,0.0014 
+"09","02070","06263","CT","Rogers, CT (PO boxes)","Killingly School District",135,0.0171 
+"09","02130","06249","CT","Lebanon, CT","Lebanon School District",3147,1 
+"09","02160","06335","CT","Gales Ferry, CT","Ledyard School District",2685,0.4366 
+"09","02160","06338","CT","Mashantucket, CT (PO boxes)","Ledyard School District",110,0.0179 
+"09","02160","06339","CT","Ledyard, CT","Ledyard School District",3348,0.5444 
+"09","02160","06340","CT","Groton, CT","Ledyard School District",7,0.0011 
+"09","02220","06750","CT","Bantam, CT","Litchfield School District",779,0.1964 
+"09","02220","06759","CT","Litchfield, CT","Litchfield School District",2628,0.6626 
+"09","02220","06778","CT","Northfield, CT","Litchfield School District",523,0.1319 
+"09","02220","06787","CT","Thomaston, CT","Litchfield School District",27,0.0068 
+"09","02220","06791","CT","Harwinton, CT","Litchfield School District",9,0.0023 
+"09","02280","06443","CT","Madison, CT","Madison School District",8060,1 
+"09","02310","06040","CT","Manchester, CT","Manchester School District",15559,0.5884 
+"09","02310","06042","CT","Manchester, CT","Manchester School District",10886,0.4116 
+"09","02400","06450","CT","Meriden, CT","Meriden School District",15552,0.5941 
+"09","02400","06451","CT","Meriden, CT","Meriden School District",10625,0.4059 
+"09","02490","06457","CT","Middletown, CT","Middletown School District",21632,0.9982 
+"09","02490","06459","CT","Middletown, CT","Middletown School District",39,0.0018 
+"09","02520","06460","CT","Milford, CT","Milford School District",17783,0.7488 
+"09","02520","06461","CT","Milford, CT","Milford School District",5966,0.2512 
+"09","02550","06468","CT","Monroe, CT","Monroe School District",6918,1 
+"09","02580","06353","CT","Montville, CT","Montville School District",98,0.0132 
+"09","02580","06370","CT","Oakdale, CT","Montville School District",2905,0.3925 
+"09","02580","06375","CT","Quaker Hill, CT","Montville School District",11,0.0015 
+"09","02580","06382","CT","Uncasville, CT","Montville School District",4388,0.5928 
+"09","02640","06712","CT","Prospect, CT","Naugatuck School District",158,0.0119 
+"09","02640","06770","CT","Naugatuck, CT","Naugatuck School District",13098,0.9881 
+"09","02670","06051","CT","New Britain, CT","New Britain School District",13514,0.4289 
+"09","02670","06052","CT","New Britain, CT","New Britain School District",3598,0.1142 
+"09","02670","06053","CT","New Britain, CT","New Britain School District",14398,0.4569 
+"09","02700","06840","CT","New Canaan, CT","New Canaan School District",7499,0.9996 
+"09","02700","06907","CT","Stamford, CT","New Canaan School District",3,0.0004 
+"09","02730","06812","CT","New Fairfield, CT","New Fairfield School District",5635,1 
+"09","02790","06510","CT","New Haven, CT","New Haven School District",3051,0.053 
+"09","02790","06511","CT","New Haven, CT","New Haven School District",24191,0.4205 
+"09","02790","06512","CT","East Haven, CT","New Haven School District",3490,0.0607 
+"09","02790","06513","CT","New Haven, CT","New Haven School District",13343,0.232 
+"09","02790","06514","CT","Hamden, CT","New Haven School District",37,0.0006 
+"09","02790","06515","CT","New Haven, CT","New Haven School District",7368,0.1281 
+"09","02790","06519","CT","New Haven, CT","New Haven School District",6045,0.1051 
+"09","02820","06320","CT","New London, CT","New London School District",12119,1 
+"09","02850","06755","CT","Gaylordsville, CT","New Milford School District",471,0.0395 
+"09","02850","06776","CT","New Milford, CT","New Milford School District",11404,0.9561 
+"09","02850","06784","CT","Sherman, CT","New Milford School District",36,0.003 
+"09","02850","06794","CT","Washington Depot, CT","New Milford School District",17,0.0014 
+"09","02880","06111","CT","Newington, CT","Newington School District",13219,1 
+"09","02910","06470","CT","Newtown, CT","Newtown School District",6147,0.5955 
+"09","02910","06482","CT","Sandy Hook, CT","Newtown School District",4172,0.4042 
+"09","02910","06804","CT","Brookfield, CT","Newtown School District",3,0.0003 
+"09","02970","06471","CT","North Branford, CT","North Branford School District",3153,0.5597 
+"09","02970","06472","CT","Northford, CT","North Branford School District",2480,0.4403 
+"09","03030","06473","CT","North Haven, CT","North Haven School District",9981,1 
+"09","03060","06359","CT","North Stonington, CT","North Stonington School District",2226,1 
+"09","03090","06840","CT","New Canaan, CT","Norwalk School District",3,0.0001 
+"09","03090","06850","CT","Norwalk, CT","Norwalk School District",8968,0.2351 
+"09","03090","06851","CT","Norwalk, CT","Norwalk School District",11825,0.3099 
+"09","03090","06853","CT","Norwalk, CT","Norwalk School District",1548,0.0406 
+"09","03090","06854","CT","Norwalk, CT","Norwalk School District",12031,0.3153 
+"09","03090","06855","CT","Norwalk, CT","Norwalk School District",3760,0.0986 
+"09","03090","06880","CT","Westport, CT","Norwalk School District",17,0.0004 
+"09","03120","06360","CT","Norwich, CT","Norwich School District",17177,0.9152 
+"09","03120","06380","CT","Taftville, CT","Norwich School District",1548,0.0825 
+"09","03120","06389","CT","Yantic, CT","Norwich School District",44,0.0023 
+"09","03180","06475","CT","Old Saybrook, CT","Old Saybrook School District",5870,1 
+"09","03240","06478","CT","Oxford, CT","Oxford School District",5014,0.9984 
+"09","03240","06488","CT","Southbury, CT","Oxford School District",8,0.0016 
+"09","03270","06239","CT","Danielson, CT","Plainfield School District",310,0.0495 
+"09","03270","06332","CT","Central Village, CT (PO boxes)","Plainfield School District",268,0.0428 
+"09","03270","06354","CT","Moosup, CT","Plainfield School District",2194,0.3503 
+"09","03270","06374","CT","Plainfield, CT","Plainfield School District",3356,0.5358 
+"09","03270","06387","CT","Wauregan, CT (PO boxes)","Plainfield School District",136,0.0217 
+"09","03300","06053","CT","New Britain, CT","Plainville School District",1,0.0001 
+"09","03300","06062","CT","Plainville, CT","Plainville School District",8044,0.9999 
+"09","03330","06782","CT","Plymouth, CT","Plymouth School District",988,0.1918 
+"09","03330","06786","CT","Terryville, CT","Plymouth School District",4158,0.8072 
+"09","03330","06787","CT","Thomaston, CT","Plymouth School District",5,0.001 
+"09","03390","06414","CT","Cobalt, CT (PO boxes)","Portland School District",1,0.0002 
+"09","03390","06480","CT","Portland, CT","Portland School District",4127,0.9998 
+"09","03480","06260","CT","Putnam, CT","Putnam School District",4284,0.9981 
+"09","03480","06277","CT","Thompson, CT","Putnam School District",8,0.0019 
+"09","03515","06058","CT","Norfolk, CT","Regional School District 06",32,0.0085 
+"09","03515","06754","CT","Cornwall Bridge, CT","Regional School District 06",493,0.1314 
+"09","03515","06756","CT","Goshen, CT","Regional School District 06",1648,0.4393 
+"09","03515","06758","CT","Lakeside, CT","Regional School District 06",24,0.0064 
+"09","03515","06759","CT","Litchfield, CT","Regional School District 06",32,0.0085 
+"09","03515","06763","CT","Morris, CT","Regional School District 06",1229,0.3276 
+"09","03515","06777","CT","New Preston Marble Dale, CT","Regional School District 06",293,0.0781 
+"09","03520","06013","CT","Burlington, CT","Regional School District 10",3628,0.6107 
+"09","03520","06791","CT","Harwinton, CT","Regional School District 10",2313,0.3893 
+"09","03530","06752","CT","Bridgewater, CT","Regional School District 12",866,0.2122 
+"09","03530","06776","CT","New Milford, CT","Regional School District 12",2,0.0005 
+"09","03530","06777","CT","New Preston Marble Dale, CT","Regional School District 12",780,0.1911 
+"09","03530","06783","CT","Roxbury, CT","Regional School District 12",1160,0.2842 
+"09","03530","06793","CT","Washington, CT","Regional School District 12",675,0.1654 
+"09","03530","06794","CT","Washington Depot, CT","Regional School District 12",599,0.1467 
+"09","03535","06422","CT","Durham, CT","Regional School District 13",2828,0.6004 
+"09","03535","06455","CT","Middlefield, CT","Regional School District 13",1302,0.2764 
+"09","03535","06481","CT","Rockfall, CT","Regional School District 13",580,0.1231 
+"09","03536","06751","CT","Bethlehem, CT","Regional School District 14",1597,0.258 
+"09","03536","06795","CT","Watertown, CT","Regional School District 14",8,0.0013 
+"09","03536","06798","CT","Woodbury, CT","Regional School District 14",4584,0.7407 
+"09","03537","06488","CT","Southbury, CT","Regional School District 15",9270,0.7526 
+"09","03537","06762","CT","Middlebury, CT","Regional School District 15",3047,0.2474 
+"09","03538","06403","CT","Beacon Falls, CT","Regional School District 16",2611,0.4103 
+"09","03538","06410","CT","Cheshire, CT","Regional School District 16",7,0.0011 
+"09","03538","06705","CT","Waterbury, CT","Regional School District 16",6,0.0009 
+"09","03538","06712","CT","Prospect, CT","Regional School District 16",3587,0.5637 
+"09","03538","06770","CT","Naugatuck, CT","Regional School District 16",152,0.0239 
+"09","03539","06419","CT","Killingworth, CT","Regional School District 17",2601,0.4235 
+"09","03539","06424","CT","East Hampton, CT","Regional School District 17",185,0.0301 
+"09","03539","06438","CT","Haddam, CT","Regional School District 17",1103,0.1796 
+"09","03539","06441","CT","Higganum, CT","Regional School District 17",2252,0.3667 
+"09","03540","06371","CT","Old Lyme, CT","Regional School District 18",6069,0.9776 
+"09","03540","06376","CT","South Lyme, CT (PO boxes)","Regional School District 18",84,0.0135 
+"09","03540","06439","CT","Hadlyme, CT (PO boxes)","Regional School District 18",55,0.0089 
+"09","03810","06877","CT","Ridgefield, CT","Ridgefield School District",9506,1 
+"09","03840","06037","CT","Berlin, CT","Rocky Hill School District",31,0.0033 
+"09","03840","06067","CT","Rocky Hill, CT","Rocky Hill School District",9288,0.9967 
+"09","03990","06483","CT","Seymour, CT","Seymour School District",7112,1 
+"09","04050","06484","CT","Shelton, CT","Shelton School District",17174,1 
+"09","04110","06001","CT","Avon, CT","Simsbury School District",3,0.0003 
+"09","04110","06070","CT","Simsbury, CT","Simsbury School District",6321,0.6285 
+"09","04110","06081","CT","Tariffville, CT","Simsbury School District",671,0.0667 
+"09","04110","06089","CT","Weatogue, CT","Simsbury School District",1691,0.1681 
+"09","04110","06092","CT","West Simsbury, CT","Simsbury School District",1371,0.1363 
+"09","04140","06071","CT","Somers, CT","Somers School District",3571,0.9859 
+"09","04140","06072","CT","Somersville, CT (PO boxes)","Somers School District",51,0.0141 
+"09","04170","06042","CT","Manchester, CT","South Windsor School District",2,0.0002 
+"09","04170","06074","CT","South Windsor, CT","South Windsor School District",10802,0.9998 
+"09","04230","06010","CT","Bristol, CT","Southington School District",3,0.0002 
+"09","04230","06444","CT","Marion, CT (PO boxes)","Southington School District",246,0.0136 
+"09","04230","06451","CT","Meriden, CT","Southington School District",22,0.0012 
+"09","04230","06467","CT","Milldale, CT (PO boxes)","Southington School District",151,0.0083 
+"09","04230","06479","CT","Plantsville, CT","Southington School District",4152,0.2288 
+"09","04230","06489","CT","Southington, CT","Southington School District",13571,0.7479 
+"09","04290","06071","CT","Somers, CT","Stafford School District",26,0.005 
+"09","04290","06076","CT","Stafford Springs, CT","Stafford School District",5211,0.995 
+"09","04320","06831","CT","Greenwich, CT","Stamford School District",87,0.0015 
+"09","04320","06901","CT","Stamford, CT","Stamford School District",6508,0.1143 
+"09","04320","06902","CT","Stamford, CT","Stamford School District",28328,0.4974 
+"09","04320","06903","CT","Stamford, CT","Stamford School District",5296,0.093 
+"09","04320","06905","CT","Stamford, CT","Stamford School District",8939,0.157 
+"09","04320","06906","CT","Stamford, CT","Stamford School District",3966,0.0696 
+"09","04320","06907","CT","Stamford, CT","Stamford School District",3829,0.0672 
+"09","04380","06355","CT","Mystic, CT","Stonington School District",2138,0.2263 
+"09","04380","06378","CT","Stonington, CT","Stonington School District",3054,0.3233 
+"09","04380","06379","CT","Pawcatuck, CT","Stonington School District",4255,0.4504 
+"09","04440","06614","CT","Stratford, CT","Stratford School District",13720,0.6339 
+"09","04440","06615","CT","Stratford, CT","Stratford School District",7923,0.3661 
+"09","04470","06078","CT","Suffield, CT","Suffield School District",4431,0.7537 
+"09","04470","06080","CT","Suffield, CT","Suffield School District",1,0.0002 
+"09","04470","06093","CT","West Suffield, CT","Suffield School District",1447,0.2461 
+"09","04500","06787","CT","Thomaston, CT","Thomaston School District",3340,1 
+"09","04530","06255","CT","North Grosvenordale, CT","Thompson School District",2100,0.5069 
+"09","04530","06262","CT","Quinebaug, CT","Thompson School District",285,0.0688 
+"09","04530","06277","CT","Thompson, CT","Thompson School District",1752,0.4229 
+"09","04530","06281","CT","Woodstock, CT","Thompson School District",6,0.0014 
+"09","04560","06029","CT","Ellington, CT","Tolland School District",1,0.0002 
+"09","04560","06084","CT","Tolland, CT","Tolland School District",5629,0.9998 
+"09","04590","06759","CT","Litchfield, CT","Torrington School District",28,0.0016 
+"09","04590","06790","CT","Torrington, CT","Torrington School District",16998,0.9975 
+"09","04590","06791","CT","Harwinton, CT","Torrington School District",14,0.0008 
+"09","04620","06611","CT","Trumbull, CT","Trumbull School District",13159,1 
+"09","04680","06066","CT","Vernon Rockville, CT","Vernon School District",14761,1 
+"09","04740","06473","CT","North Haven, CT","Wallingford School District",4,0.0002 
+"09","04740","06492","CT","Wallingford, CT","Wallingford School District",18934,0.9998 
+"09","04830","06702","CT","Waterbury, CT","Waterbury School District",2100,0.0434 
+"09","04830","06704","CT","Waterbury, CT","Waterbury School District",11030,0.2279 
+"09","04830","06705","CT","Waterbury, CT","Waterbury School District",11766,0.2431 
+"09","04830","06706","CT","Waterbury, CT","Waterbury School District",5999,0.124 
+"09","04830","06708","CT","Waterbury, CT","Waterbury School District",13041,0.2695 
+"09","04830","06710","CT","Waterbury, CT","Waterbury School District",4422,0.0914 
+"09","04830","06770","CT","Naugatuck, CT","Waterbury School District",34,0.0007 
+"09","04860","06320","CT","New London, CT","Waterford School District",5,0.0006 
+"09","04860","06375","CT","Quaker Hill, CT","Waterford School District",1555,0.1753 
+"09","04860","06382","CT","Uncasville, CT","Waterford School District",4,0.0005 
+"09","04860","06385","CT","Waterford, CT","Waterford School District",7309,0.8237 
+"09","04890","06779","CT","Oakville, CT","Watertown School District",3565,0.3902 
+"09","04890","06795","CT","Watertown, CT","Watertown School District",5572,0.6098 
+"09","04920","06105","CT","Hartford, CT","West Hartford School District",291,0.0107 
+"09","04920","06107","CT","West Hartford, CT","West Hartford School District",7930,0.2911 
+"09","04920","06110","CT","West Hartford, CT","West Hartford School District",5526,0.2029 
+"09","04920","06117","CT","West Hartford, CT","West Hartford School District",6301,0.2313 
+"09","04920","06119","CT","West Hartford, CT","West Hartford School District",7192,0.264 
+"09","04950","06516","CT","West Haven, CT","West Haven School District",22735,1 
+"09","04980","06498","CT","Westbrook, CT","Westbrook School District",3976,1 
+"09","05010","06883","CT","Weston, CT","Weston School District",3671,1 
+"09","05040","06855","CT","Norwalk, CT","Westport School District",4,0.0004 
+"09","05040","06880","CT","Westport, CT","Westport School District",10563,0.9996 
+"09","05070","06109","CT","Wethersfield, CT","Wethersfield School District",11809,1 
+"09","05130","06897","CT","Wilton, CT","Wilton School District",6567,1 
+"09","05160","06098","CT","Winsted, CT","Winchester School District",5353,0.9904 
+"09","05160","06790","CT","Torrington, CT","Winchester School District",52,0.0096 
+"09","05190","06226","CT","Willimantic, CT","Windham School District",7213,0.7465 
+"09","05190","06256","CT","North Windham, CT","Windham School District",1025,0.1061 
+"09","05190","06266","CT","South Windham, CT","Windham School District",182,0.0188 
+"09","05190","06280","CT","Windham, CT","Windham School District",1243,0.1286 
+"09","05220","06002","CT","Bloomfield, CT","Windsor School District",18,0.0015 
+"09","05220","06095","CT","Windsor, CT","Windsor School District",12020,0.9985 
+"09","05250","06096","CT","Windsor Locks, CT","Windsor Locks School District",5815,1 
+"09","05280","06705","CT","Waterbury, CT","Wolcott School District",61,0.0095 
+"09","05280","06716","CT","Wolcott, CT","Wolcott School District",6347,0.9905 
+"09","99999","06018","CT","Canaan, CT","[not in any district]",1297,0.0145 
+"09","99999","06021","CT","Colebrook, CT","[not in any district]",694,0.0078 
+"09","99999","06024","CT","East Canaan, CT","[not in any district]",285,0.0032 
+"09","99999","06027","CT","East Hartland, CT","[not in any district]",578,0.0065 
+"09","99999","06031","CT","Falls Village, CT","[not in any district]",799,0.0089 
+"09","99999","06039","CT","Lakeville, CT","[not in any district]",1298,0.0145 
+"09","99999","06043","CT","Bolton, CT","[not in any district]",3,0 
+"09","99999","06057","CT","New Hartford, CT","[not in any district]",2855,0.0319 
+"09","99999","06058","CT","Norfolk, CT","[not in any district]",932,0.0104 
+"09","99999","06061","CT","Pine Meadow, CT (PO boxes)","[not in any district]",104,0.0012 
+"09","99999","06063","CT","Barkhamsted, CT","[not in any district]",1480,0.0165 
+"09","99999","06065","CT","Riverton, CT","[not in any district]",221,0.0025 
+"09","99999","06068","CT","Salisbury, CT","[not in any district]",993,0.0111 
+"09","99999","06069","CT","Sharon, CT","[not in any district]",1574,0.0176 
+"09","99999","06076","CT","Stafford Springs, CT","[not in any district]",354,0.004 
+"09","99999","06079","CT","Taconic, CT (PO boxes)","[not in any district]",93,0.001 
+"09","99999","06091","CT","West Hartland, CT","[not in any district]",113,0.0013 
+"09","99999","06098","CT","Winsted, CT","[not in any district]",17,0.0002 
+"09","99999","06226","CT","Willimantic, CT","[not in any district]",215,0.0024 
+"09","99999","06231","CT","Amston, CT","[not in any district]",1582,0.0177 
+"09","99999","06232","CT","Andover, CT","[not in any district]",1321,0.0148 
+"09","99999","06234","CT","Brooklyn, CT","[not in any district]",3354,0.0375 
+"09","99999","06235","CT","Chaplin, CT","[not in any district]",932,0.0104 
+"09","99999","06237","CT","Columbia, CT","[not in any district]",2294,0.0256 
+"09","99999","06242","CT","Eastford, CT","[not in any district]",670,0.0075 
+"09","99999","06247","CT","Hampton, CT","[not in any district]",1128,0.0126 
+"09","99999","06248","CT","Hebron, CT","[not in any district]",2036,0.0228 
+"09","99999","06250","CT","Mansfield Center, CT","[not in any district]",2180,0.0244 
+"09","99999","06254","CT","North Franklin, CT","[not in any district]",790,0.0088 
+"09","99999","06256","CT","North Windham, CT","[not in any district]",10,0.0001 
+"09","99999","06258","CT","Pomfret, CT (PO boxes)","[not in any district]",1,0 
+"09","99999","06259","CT","Pomfret Center, CT","[not in any district]",1789,0.02 
+"09","99999","06264","CT","Scotland, CT","[not in any district]",51,0.0006 
+"09","99999","06268","CT","Storrs Mansfield, CT","[not in any district]",4367,0.0488 
+"09","99999","06269","CT","Storrs Mansfield, CT","[not in any district]",217,0.0024 
+"09","99999","06278","CT","Ashford, CT","[not in any district]",1966,0.022 
+"09","99999","06279","CT","Willington, CT","[not in any district]",2685,0.03 
+"09","99999","06280","CT","Windham, CT","[not in any district]",99,0.0011 
+"09","99999","06281","CT","Woodstock, CT","[not in any district]",3086,0.0345 
+"09","99999","06282","CT","Woodstock Valley, CT","[not in any district]",583,0.0065 
+"09","99999","06330","CT","Baltic, CT","[not in any district]",1350,0.0151 
+"09","99999","06331","CT","Canterbury, CT","[not in any district]",2055,0.023 
+"09","99999","06334","CT","Bozrah, CT","[not in any district]",1097,0.0123 
+"09","99999","06336","CT","Gilman, CT","[not in any district]",34,0.0004 
+"09","99999","06339","CT","Ledyard, CT","[not in any district]",9,0.0001 
+"09","99999","06350","CT","Hanover, CT (PO boxes)","[not in any district]",59,0.0007 
+"09","99999","06351","CT","Jewett City, CT","[not in any district]",1735,0.0194 
+"09","99999","06354","CT","Moosup, CT","[not in any district]",202,0.0023 
+"09","99999","06365","CT","Preston, CT","[not in any district]",2040,0.0228 
+"09","99999","06373","CT","Oneco, CT (PO boxes)","[not in any district]",117,0.0013 
+"09","99999","06377","CT","Sterling, CT","[not in any district]",1140,0.0127 
+"09","99999","06384","CT","Voluntown, CT","[not in any district]",1148,0.0128 
+"09","99999","06409","CT","Centerbrook, CT","[not in any district]",382,0.0043 
+"09","99999","06412","CT","Chester, CT","[not in any district]",1793,0.02 
+"09","99999","06415","CT","Colchester, CT","[not in any district]",2,0 
+"09","99999","06417","CT","Deep River, CT","[not in any district]",2112,0.0236 
+"09","99999","06420","CT","Salem, CT","[not in any district]",1717,0.0192 
+"09","99999","06426","CT","Essex, CT","[not in any district]",1809,0.0202 
+"09","99999","06442","CT","Ivoryton, CT","[not in any district]",1138,0.0127 
+"09","99999","06447","CT","Marlborough, CT","[not in any district]",2388,0.0267 
+"09","99999","06477","CT","Orange, CT","[not in any district]",5480,0.0613 
+"09","99999","06524","CT","Bethany, CT","[not in any district]",2039,0.0228 
+"09","99999","06525","CT","Woodbridge, CT","[not in any district]",3476,0.0389 
+"09","99999","06612","CT","Easton, CT","[not in any district]",2756,0.0308 
+"09","99999","06753","CT","Cornwall, CT (PO boxes)","[not in any district]",63,0.0007 
+"09","99999","06754","CT","Cornwall Bridge, CT","[not in any district]",351,0.0039 
+"09","99999","06756","CT","Goshen, CT","[not in any district]",3,0 
+"09","99999","06757","CT","Kent, CT","[not in any district]",1205,0.0135 
+"09","99999","06759","CT","Litchfield, CT","[not in any district]",61,0.0007 
+"09","99999","06784","CT","Sherman, CT","[not in any district]",1834,0.0205 
+"09","99999","06785","CT","South Kent, CT","[not in any district]",444,0.005 
+"09","99999","06790","CT","Torrington, CT","[not in any district]",9,0.0001 
+"09","99999","06796","CT","West Cornwall, CT","[not in any district]",687,0.0077 
+"09","99999","06877","CT","Ridgefield, CT","[not in any district]",20,0.0002 
+"09","99999","06896","CT","Redding, CT","[not in any district]",3642,0.0407 
+"09","99999","06897","CT","Wilton, CT","[not in any district]",2,0 
